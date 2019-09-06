@@ -1,0 +1,10 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: true
+
+  # COMMAND HANDLERS
+  Application\CommandHandler\User\CreateUserCommandHandler:
+    tags:
+      - { name: command_handler, handles: Application\Command\User\CreateUserCommand }
