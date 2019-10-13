@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\CommandHandler;
+namespace Application\Command;
 
 class UnsupportedCommandException extends \Exception
 {

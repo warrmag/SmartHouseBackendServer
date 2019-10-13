@@ -5,16 +5,30 @@ namespace Infrastructure\Repository;
 
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Common\Persistence\ManagerRegistry;
+use Doctrine\ORM\EntityManager;
+use Doctrine\ORM\ORMException;
 use Domain\Entity\User;
-use Domain\Repository\UserRepositoryInterface;
+use Application\Repository\UserRepositoryInterface;
+use Psr\Log\LoggerInterface;
 use Symfony\Bridge\Doctrine\Security\User\UserLoaderInterface;
 use Symfony\Component\Security\Core\User\UserInterface;
 
 class UserRepository extends ServiceEntityRepository implements UserRepositoryInterface, UserLoaderInterface
 {
-    public function __construct(ManagerRegistry $registry)
+    /**
+     * @var EntityManager
+     */
+    private $entityManager;
+    /**
+     * @var LoggerInterface
+     */
+    private $logger;
+
+    public function __construct(ManagerRegistry $registry, LoggerInterface $logger)
     {
         parent::__construct($registry, User::class);
+        $this->entityManager = $this->getEntityManager();
+        $this->logger = $logger;
     }
 
     /**
@@ -41,9 +55,19 @@ class UserRepository extends ServiceEntityRepository implements UserRepositoryIn
         // TODO: Implement findAll() method.
     }
 
+    /**
+     * @param User $user
+     * @throws RepositoryException
+     */
     public function save(User $user): void
     {
-        // TODO: Implement save() method.
+        try {
+            $this->entityManager->persist($user);
+            $this->entityManager->flush($user);
+        } catch (ORMException $exception) {
+            $this->logger->emergency($exception->getMessage());
+            throw new RepositoryException($exception->getMessage());
+        }
     }
 
     public function update(User $user): void

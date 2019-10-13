@@ -1,11 +1,12 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\CommandHandler;
+namespace Application\Command\User;
 
 use Application\Command\CommandInterface;
-use Application\Command\User\CreateUserCommand;
+use Application\Command\UnsupportedCommandException;
 use Application\Service\User\UserServiceInterface;
+use Application\Repository\UserRepositoryInterface;
 use Symfony\Component\Messenger\Handler\MessageHandlerInterface;
 
 class CreateUserCommandHandler implements MessageHandlerInterface
@@ -15,9 +16,15 @@ class CreateUserCommandHandler implements MessageHandlerInterface
      */
     private $userService;
 
-    public function __construct(UserServiceInterface $userService)
+    /**
+     * @var UserRepositoryInterface
+     */
+    private $userRepository;
+
+    public function __construct(UserServiceInterface $userService, UserRepositoryInterface $userRepository)
     {
         $this->userService = $userService;
+        $this->userRepository = $userRepository;
     }
 
     /**
@@ -34,7 +41,8 @@ class CreateUserCommandHandler implements MessageHandlerInterface
                 __CLASS__
             ));
         }
-        $user = $this->userService->create($command->payload());
+        $user = $this->userService->create($command->uuid(), $command->payload());
+        $this->userRepository->save($user);
 
         return $user->getUuid();
     }

@@ -8,7 +8,7 @@ use Domain\Entity\User;
 
 interface UserServiceInterface
 {
-    public function create(UserData $userData): User;
+    public function create(string $uuid, UserData $userData): User;
     public function modify(UserData $userData, User $user): User;
     public function delete(User $user);
 }

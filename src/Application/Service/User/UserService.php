@@ -3,9 +3,9 @@ declare(strict_types=1);
 
 namespace Application\Service\User;
 
+use Exception;
 use Domain\DTO\UserData;
 use Domain\Entity\User;
-use Ramsey\Uuid\Uuid;
 use Symfony\Component\Security\Core\Encoder\PasswordEncoderInterface;
 use Symfony\Component\Security\Core\Encoder\UserPasswordEncoderInterface;
 
@@ -22,14 +22,14 @@ class UserService implements UserServiceInterface
     }
 
     /**
+     * @param string $uuid
      * @param UserData $userData
      * @return User
-     * @throws \Exception
      */
-    public function create(UserData $userData): User
+    public function create(string $uuid, UserData $userData): User
     {
         $user = new User(
-            Uuid::uuid4()->toString(),
+            $uuid,
             $userData->email(),
             $userData->roles(),
             $userData->isActive()

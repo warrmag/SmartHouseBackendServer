@@ -1,5 +1,6 @@
 imports:
     - { resource: services/command_handlers.yaml }
+    - { resource: services/repositories.yaml }
 
 parameters:
     env(MONGODB_URL): ''
@@ -13,7 +14,14 @@ services:
 
     UI\Controller\:
         resource: '../src/UI/Controller/*'
-        tags: ['controller.service_arguments']
+#        tags: ['controller.service_arguments']
+        public: true
 
     Application\Service\:
         resource: '../src/Application/Service'
+
+    Application\Repository\:
+        resource: '../src/Application/Repository'
+
+    Infrastructure\:
+        resource: '../src/Infrastructure'

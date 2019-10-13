@@ -5,6 +5,6 @@ services:
     public: true
 
   # COMMAND HANDLERS
-  Application\CommandHandler\User\CreateUserCommandHandler:
+  Application\Command\User\CreateUserCommandHandler:
     tags:
       - { name: command_handler, handles: Application\Command\User\CreateUserCommand }
