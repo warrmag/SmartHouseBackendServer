@@ -5,7 +5,7 @@ services:
     public: false
 
   user_repository:
-    class: Infrastructure\Repository\UserRepository
+    class: Infrastructure\Repository\ORM\UserRepository
     arguments: ['@doctrine', '@logger']
 
   Application\Repository\UserRepositoryInterface: '@user_repository'

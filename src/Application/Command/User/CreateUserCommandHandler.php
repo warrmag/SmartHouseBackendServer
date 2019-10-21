@@ -21,26 +21,20 @@ class CreateUserCommandHandler implements MessageHandlerInterface
      */
     private $userRepository;
 
-    public function __construct(UserServiceInterface $userService, UserRepositoryInterface $userRepository)
-    {
+    public function __construct(
+        UserServiceInterface $userService,
+        UserRepositoryInterface $userRepository
+    ) {
         $this->userService = $userService;
         $this->userRepository = $userRepository;
     }
 
     /**
-     * @param CommandInterface $command
+     * @param CreateUserCommand $command
      * @return string
-     * @throws UnsupportedCommandException
      */
-    public function __invoke(CommandInterface $command): string
+    public function __invoke(CreateUserCommand $command): string
     {
-        if (!$command instanceof CreateUserCommand) {
-            throw new UnsupportedCommandException(sprintf(
-                'Command "%s" is not supported by "%s"',
-                \get_class($command),
-                __CLASS__
-            ));
-        }
         $user = $this->userService->create($command->uuid(), $command->payload());
         $this->userRepository->save($user);
 

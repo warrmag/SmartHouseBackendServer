@@ -6,6 +6,7 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "alcaeus/mongo-php-adapter": "^1.1",
+        "doctrine/annotations": "^1.8",
         "doctrine/mongodb-odm-bundle": "^4.0",
         "jms/serializer-bundle": "^3.4",
         "ramsey/uuid-doctrine": "^1.5",
@@ -16,6 +17,7 @@
         "symfony/messenger": "4.3.*",
         "symfony/orm-pack": "^1.0",
         "symfony/security-bundle": "4.3.*",
+        "symfony/validator": "4.3.*",
         "symfony/yaml": "4.3.*"
     },
     "require-dev": {

@@ -37,6 +37,18 @@ class User implements UserInterface, \Serializable
     private $password;
 
     /**
+     * @var string
+     * @ORM\Column(type="string", nullable=false)
+     */
+    private $firstName;
+
+    /**
+     * @var string
+     * @ORM\Column(type="string", nullable=false)
+     */
+    private $lastName;
+
+    /**
      * @var array
      * @ORM\Column(type="array", nullable=false)
      */
@@ -51,11 +63,15 @@ class User implements UserInterface, \Serializable
     public function __construct(
         string $uuid,
         string $email,
+        string $firstName,
+        string $lastName,
         ?array $roles,
         ?bool $active
     ) {
         $this->uuid = $uuid;
         $this->email = $email;
+        $this->firstName = $firstName;
+        $this->lastName = $lastName;
         $this->roles = $roles ?? [self::DEFAULT_ROLE];
         $this->active = $active ?? false;
     }
@@ -95,6 +111,22 @@ class User implements UserInterface, \Serializable
     public function getRoles(): array
     {
         return $this->roles;
+    }
+
+    /**
+     * @return string
+     */
+    public function getFirstName(): string
+    {
+        return $this->firstName;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLastName(): string
+    {
+        return $this->lastName;
     }
 
     public function isActive(): bool

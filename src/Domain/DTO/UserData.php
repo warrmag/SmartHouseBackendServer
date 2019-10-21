@@ -21,13 +21,29 @@ class UserData
      * @var bool
      */
     private $active;
+    /**
+     * @var string
+     */
+    private $firstName;
+    /**
+     * @var string
+     */
+    private $lastName;
 
-    public function __construct(string $email, string $plainPassword, ?array $roles, ?bool $active)
-    {
+    public function __construct(
+        string $email,
+        string $firstName,
+        string $lastName,
+        string $plainPassword,
+        ?array $roles,
+        ?bool $active
+    ) {
         $this->email = $email;
         $this->plainPassword = $plainPassword;
         $this->roles = $roles;
         $this->active = $active;
+        $this->firstName = $firstName;
+        $this->lastName = $lastName;
     }
 
     /**
@@ -44,6 +60,22 @@ class UserData
     public function plainPassword(): string
     {
         return $this->plainPassword;
+    }
+
+    /**
+     * @return string
+     */
+    public function firstName(): string
+    {
+        return $this->firstName;
+    }
+
+    /**
+     * @return string
+     */
+    public function lastName(): string
+    {
+        return $this->lastName;
     }
 
     /**

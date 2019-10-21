@@ -31,6 +31,8 @@ class UserService implements UserServiceInterface
         $user = new User(
             $uuid,
             $userData->email(),
+            $userData->firstName(),
+            $userData->lastName(),
             $userData->roles(),
             $userData->isActive()
         );
