@@ -3,12 +3,13 @@ declare(strict_types=1);
 
 namespace Domain\Entity;
 
+use App\Domain\Entity\EntityInterface;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
  * @ORM\Entity()
  */
-class Device
+class Device implements EntityInterface
 {
     /**
      * @var string

@@ -3,6 +3,7 @@ declare(strict_types=1);
 
 namespace Domain\Entity;
 
+use App\Domain\Entity\EntityInterface;
 use Doctrine\ORM\Mapping as ORM;
 use JMS\Serializer\Annotation as Serializer;
 use Symfony\Component\Security\Core\User\UserInterface;
@@ -10,7 +11,7 @@ use Symfony\Component\Security\Core\User\UserInterface;
 /**
  * @ORM\Entity()
  */
-class User implements UserInterface, \Serializable
+class User implements UserInterface, EntityInterface, \Serializable
 {
     const DEFAULT_ROLE = 'ROLE_USER';
 
