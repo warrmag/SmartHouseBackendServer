@@ -1,9 +1,10 @@
 FROM php:7.3.8-fpm
 RUN apt-get update && \
     apt-get install --no-install-recommends --assume-yes --quiet ca-certificates curl git zip libzip-dev zlib1g-dev && \
-    apt-get install --no-install-recommends --assume-yes --quiet libxrender1 libfontconfig1 libx11-dev libjpeg62 libxtst6 &&\
+    apt-get install --no-install-recommends --assume-yes --quiet libxrender1 libfontconfig1 libx11-dev libjpeg62 libxtst6 libpq-dev  && \
     docker-php-ext-configure zip --with-libzip && \
-    docker-php-ext-install zip mysqli pdo pdo_mysql opcache && \
+    docker-php-ext-configure pgsql -with-pgsql=/usr/local/pgsql && \
+    docker-php-ext-install zip mysqli pdo pdo_mysql pdo_pgsql opcache && \
     rm -rf /var/lib/apt/lists/*
 
 RUN pecl install xdebug && \
@@ -27,8 +28,10 @@ RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" &&
     php -r "unlink('composer-setup.php');" && \
     mv composer.phar /usr/local/bin/composer
 RUN ls -la /
-#CMD composer config "platform.ext-mongo" "1.6.16" --working-dir=/app  -vvv&& \
-#    composer require "alcaeus/mongo-php-adapter" --working-dir=/app -vvv
-#CMD php bin/console doctrine:database:create  --if-not-exists  --no-interaction --quiet
-#CMD /etc/init.d/php-fpm restart
+
+COPY entrypoint.sh /entrypoint.sh
+RUN chmod +x /entrypoint.sh
+ENTRYPOINT ["/entrypoint.sh"]
+
 WORKDIR /app
+CMD ["php-fpm"]

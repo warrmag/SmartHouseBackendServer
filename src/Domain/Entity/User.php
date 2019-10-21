@@ -4,6 +4,7 @@ declare(strict_types=1);
 namespace Domain\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
+use JMS\Serializer\Annotation as Serializer;
 use Symfony\Component\Security\Core\User\UserInterface;
 
 /**
@@ -15,6 +16,7 @@ class User implements UserInterface, \Serializable
 
     /**
      * @var string
+     * @ORM\Id()
      * @ORM\Column(type="string", unique=true, length=36)
      * @ORM\GeneratedValue(strategy="CUSTOM")
      * @ORM\CustomIdGenerator(class="Ramsey\Uuid\Doctrine\UuidGenerator")
