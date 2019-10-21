@@ -41,6 +41,7 @@ class User implements UserInterface, \Serializable
      * @ORM\Column(type="array", nullable=false)
      */
     private $roles;
+
     /**
      * @var bool
      * @ORM\Column(type="boolean", nullable=false)

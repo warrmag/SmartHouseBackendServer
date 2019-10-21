@@ -72,9 +72,6 @@
     "doctrine/migrations": {
         "version": "2.1.1"
     },
-    "doctrine/mongodb": {
-        "version": "1.6.4"
-    },
     "doctrine/mongodb-odm": {
         "version": "1.2.9"
     },
@@ -378,6 +375,9 @@
     },
     "symfony/stopwatch": {
         "version": "v4.3.4"
+    },
+    "symfony/var-dumper": {
+        "version": "v4.3.5"
     },
     "symfony/var-exporter": {
         "version": "v4.3.4"

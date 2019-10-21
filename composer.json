@@ -2,11 +2,11 @@
     "type": "project",
     "license": "proprietary",
     "require": {
-        "php": "^7.2",
+        "php": "^7.3",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "alcaeus/mongo-php-adapter": "^1.1",
-        "doctrine/mongodb-odm-bundle": "^3.5",
+        "doctrine/mongodb-odm-bundle": "^4.0",
         "jms/serializer-bundle": "^3.4",
         "ramsey/uuid-doctrine": "^1.5",
         "symfony/console": "4.3.*",
