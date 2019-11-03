@@ -13,12 +13,14 @@ services:
       - php
       - mongodb
       - postgres
+    tty: true
   php:
     container_name: app-php
     build: docker/php
     volumes:
       - ./:/app
       - ./var/container/log:/tmp/xdebug.log
+    tty: true
   postgres:
     image: postgres
     container_name: app-postgres

@@ -1,9 +1,8 @@
 <?php
 declare(strict_types=1);
 
-namespace App\Infrastructure\Validator;
+namespace Infrastructure\Validator;
 
-use App\Domain\Entity\EntityInterface;
 use Symfony\Component\Validator\Exception\ValidatorException;
 use Symfony\Component\Validator\Validator\ValidatorInterface as SymfonyValidator;
 

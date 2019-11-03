@@ -36,6 +36,7 @@ class UserService implements UserServiceInterface
             $userData->roles(),
             $userData->isActive()
         );
+
         $user->setPassword($this->passwordEncoder->encodePassword($user, $userData->plainPassword()));
 
         return $user;

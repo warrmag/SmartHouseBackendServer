@@ -4,16 +4,19 @@ declare(strict_types=1);
 namespace Domain\Entity;
 
 use App\Domain\Entity\EntityInterface;
+use Doctrine\Common\Collections\ArrayCollection;
+use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 use JMS\Serializer\Annotation as Serializer;
 use Symfony\Component\Security\Core\User\UserInterface;
 
 /**
- * @ORM\Entity()
+ * @ORM\Table("app_user")
+ * @ORM\Entity(repositoryClass="Infrastructure\Repository\ORM\UserRepository")
  */
 class User implements UserInterface, EntityInterface, \Serializable
 {
-    const DEFAULT_ROLE = 'ROLE_USER';
+    public const DEFAULT_ROLE = 'ROLE_USER';
 
     /**
      * @var string
@@ -27,7 +30,7 @@ class User implements UserInterface, EntityInterface, \Serializable
 
     /**
      * @var string
-     * @ORM\Column(type="string", nullable=false)
+     * @ORM\Column(type="string", unique=true, nullable=false)
      */
     private $email;
 
@@ -61,6 +64,21 @@ class User implements UserInterface, EntityInterface, \Serializable
      */
     private $active;
 
+    /**
+     * @var Collection
+     * @ORM\OneToMany(targetEntity="Domain\Entity\House", mappedBy="user")
+     */
+    private $houses;
+
+    /**
+     * User constructor.
+     * @param string $uuid
+     * @param string $email
+     * @param string $firstName
+     * @param string $lastName
+     * @param array|null $roles
+     * @param bool|null $active
+     */
     public function __construct(
         string $uuid,
         string $email,
@@ -75,6 +93,7 @@ class User implements UserInterface, EntityInterface, \Serializable
         $this->lastName = $lastName;
         $this->roles = $roles ?? [self::DEFAULT_ROLE];
         $this->active = $active ?? false;
+        $this->houses = new ArrayCollection();
     }
 
     /**
@@ -141,6 +160,26 @@ class User implements UserInterface, EntityInterface, \Serializable
     public function getUsername()
     {
         return $this->email;
+    }
+
+    /**
+     * @param House $house
+     */
+    public function addHouse(House $house):void
+    {
+        if ($this->houses->contains($house) === false) {
+            $this->houses->add($house);
+        }
+    }
+
+    /**
+     * @param House $house
+     */
+    public function removeHouse(House $house)
+    {
+        if ($this->houses->contains($house)) {
+            $this->houses->removeElement($house);
+        }
     }
 
     public function eraseCredentials()

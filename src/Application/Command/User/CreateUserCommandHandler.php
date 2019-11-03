@@ -3,9 +3,7 @@ declare(strict_types=1);
 
 namespace Application\Command\User;
 
-use App\Infrastructure\Validator\ValidatorInterface;
-use Application\Command\CommandInterface;
-use Application\Command\UnsupportedCommandException;
+use Infrastructure\Validator\ValidatorInterface;
 use Application\Service\User\UserServiceInterface;
 use Application\Repository\UserRepositoryInterface;
 use Symfony\Component\Messenger\Handler\MessageHandlerInterface;

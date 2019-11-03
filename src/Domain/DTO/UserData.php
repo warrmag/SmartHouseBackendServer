@@ -3,6 +3,8 @@ declare(strict_types=1);
 
 namespace Domain\DTO;
 
+use JMS\Serializer\Annotation as Serializer;
+
 class UserData
 {
     /**
@@ -23,6 +25,7 @@ class UserData
     private $active;
     /**
      * @var string
+     * @Serializer\Type(string)
      */
     private $firstName;
     /**

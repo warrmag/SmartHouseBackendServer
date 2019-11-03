@@ -27,10 +27,12 @@ RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" &&
     php composer-setup.php && \
     php -r "unlink('composer-setup.php');" && \
     mv composer.phar /usr/local/bin/composer
-RUN ls -la /
 
 COPY entrypoint.sh /entrypoint.sh
-RUN chmod +x /entrypoint.sh
+RUN chmod 777 /entrypoint.sh
+
+RUN chmod 775 -R /var/www
+
 ENTRYPOINT ["/entrypoint.sh"]
 
 WORKDIR /app
