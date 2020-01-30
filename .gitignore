@@ -1,9 +1,10 @@
 .env
+/api/.env
 .idea
 
 ###> symfony/phpunit-bridge ###
-/api/.phpunit
-/api/.phpunit.result.cache
+.phpunit
+.phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 /api/vendor
