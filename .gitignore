@@ -1,4 +1,6 @@
-/.env
+.env
+.idea
+
 ###> symfony/phpunit-bridge ###
 .phpunit
 .phpunit.result.cache
