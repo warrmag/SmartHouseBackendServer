@@ -28,6 +28,8 @@ class CreateUserHandlerTest extends WebTestCase
         );
         $this->userData = new UserData(
             'test@me.now',
+            'Jack',
+            'Doe',
             'password',
             ['role_admin'],
             true
