@@ -1,0 +1,8 @@
+user_login:
+  path: '/login'
+  methods: [POST, OPTIONS]
+
+user_logout:
+  path: '/logout'
+  controller: ''
+  methods: [GET, OPTIONS]

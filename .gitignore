@@ -1,11 +1,19 @@
-/.env
+.env
+/api/.env
+.idea
+
 ###> symfony/phpunit-bridge ###
 .phpunit
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
-/vendor
+/api/vendor
 /var
+/api/var
 /.idea
 /composer.lock
 /data
+
+###> lexik/jwt-authentication-bundle ###
+/api/config/jwt/*.pem
+###< lexik/jwt-authentication-bundle ###
