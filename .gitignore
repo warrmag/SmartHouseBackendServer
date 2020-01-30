@@ -4,12 +4,12 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
-/vendor
+/api/vendor
 /var
 /.idea
 /composer.lock
 /data
 
 ###> lexik/jwt-authentication-bundle ###
-/config/jwt/*.pem
+/api/config/jwt/*.pem
 ###< lexik/jwt-authentication-bundle ###

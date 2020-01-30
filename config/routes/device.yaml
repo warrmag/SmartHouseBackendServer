@@ -1,9 +1,0 @@
-attach_device:
-  path: '/houses/{uuid}/devices/attach'
-  controller: UI\DeviceController::attach
-  methods: [POST]
-
-list_devices:
-  path: '/devices'
-  controller: UI\Controller\DeviceController::list
-  methods: [GET]

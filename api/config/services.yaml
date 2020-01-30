@@ -1,0 +1,29 @@
+imports:
+    - { resource: services/command_handlers.yaml }
+    - { resource: services/services.yaml }
+    - { resource: services/repositories.yaml }
+
+parameters:
+
+services:
+    # default configuration for services in *this* file
+    _defaults:
+        autowire: true      # Automatically injects dependencies in your services.
+        autoconfigure: true # Automatically registers your services as commands, event subscribers, etc.
+
+    UI\Controller\:
+        resource: '../src/UI/Controller/*'
+#        tags: ['controller.service_arguments']
+        public: true
+
+    Application\Service\:
+        resource: '../src/Application/Service'
+
+    Domain\Service\:
+        resource: '../src/Domain/Service'
+
+    Application\Repository\:
+        resource: '../src/Application/Repository'
+
+    Infrastructure\:
+        resource: '../src/Infrastructure'

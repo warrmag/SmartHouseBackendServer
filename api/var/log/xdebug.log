@@ -1,0 +1,3566 @@
+[6] Log opened at 2019-10-21 18:58:44
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-10-21 18:58:44
+[6]
+[12] Log opened at 2019-10-21 18:58:44
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-10-21 18:58:44
+[12]
+[22] Log opened at 2019-10-21 18:59:15
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-10-21 18:59:15
+[22]
+[30] Log opened at 2019-10-21 18:59:16
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-10-21 18:59:16
+[30]
+[37] Log opened at 2019-10-21 18:59:16
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-10-21 18:59:16
+[37]
+[56] Log opened at 2019-10-21 18:59:22
+[56] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[56] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[56] E: Could not connect to client. :-(
+[56] Log closed at 2019-10-21 18:59:22
+[56]
+[64] Log opened at 2019-10-21 18:59:23
+[64] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[64] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[64] E: Could not connect to client. :-(
+[64] Log closed at 2019-10-21 18:59:23
+[64]
+[71] Log opened at 2019-10-21 18:59:23
+[71] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[71] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[71] E: Could not connect to client. :-(
+[71] Log closed at 2019-10-21 18:59:23
+[71]
+[78] Log opened at 2019-10-21 18:59:23
+[78] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[78] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[78] E: Could not connect to client. :-(
+[78] Log closed at 2019-10-21 18:59:23
+[78]
+[6] Log opened at 2019-10-21 19:00:25
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-10-21 19:00:25
+[6]
+[12] Log opened at 2019-10-21 19:00:26
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-10-21 19:00:26
+[12]
+[22] Log opened at 2019-10-21 19:00:56
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-10-21 19:00:56
+[22]
+[30] Log opened at 2019-10-21 19:00:57
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-10-21 19:00:57
+[30]
+[37] Log opened at 2019-10-21 19:00:57
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-10-21 19:00:57
+[37]
+[52] Log opened at 2019-10-21 19:01:00
+[52] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[52] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[52] E: Could not connect to client. :-(
+[52] Log closed at 2019-10-21 19:01:00
+[52]
+[60] Log opened at 2019-10-21 19:01:00
+[60] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[60] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[60] E: Could not connect to client. :-(
+[60] Log closed at 2019-10-21 19:01:01
+[60]
+[67] Log opened at 2019-10-21 19:01:01
+[67] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[67] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[67] E: Could not connect to client. :-(
+[67] Log closed at 2019-10-21 19:01:01
+[67]
+[74] Log opened at 2019-10-21 19:01:01
+[74] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[74] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[74] E: Could not connect to client. :-(
+[74] Log closed at 2019-10-21 19:01:01
+[74]
+[6] Log opened at 2019-10-21 19:02:29
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-10-21 19:02:29
+[6]
+[12] Log opened at 2019-10-21 19:02:29
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-10-21 19:02:29
+[12]
+[22] Log opened at 2019-10-21 19:02:55
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-10-21 19:02:55
+[22]
+[30] Log opened at 2019-10-21 19:02:56
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-10-21 19:02:56
+[30]
+[37] Log opened at 2019-10-21 19:02:56
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-10-21 19:02:56
+[37]
+[52] Log opened at 2019-10-21 19:02:59
+[52] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[52] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[52] E: Could not connect to client. :-(
+[52] Log closed at 2019-10-21 19:02:59
+[52]
+[60] Log opened at 2019-10-21 19:03:00
+[60] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[60] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[60] E: Could not connect to client. :-(
+[60] Log closed at 2019-10-21 19:03:00
+[60]
+[67] Log opened at 2019-10-21 19:03:00
+[67] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[67] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[67] E: Could not connect to client. :-(
+[67] Log closed at 2019-10-21 19:03:00
+[67]
+[74] Log opened at 2019-10-21 19:03:00
+[74] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[74] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[74] E: Could not connect to client. :-(
+[74] Log closed at 2019-10-21 19:03:00
+[74]
+[6] Log opened at 2019-10-21 21:05:32
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-10-21 21:05:37
+[6]
+[12] Log opened at 2019-10-21 21:05:37
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-10-21 21:05:37
+[12]
+[6] Log opened at 2019-10-21 21:09:18
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-10-21 21:09:23
+[6]
+[12] Log opened at 2019-10-21 21:09:23
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-10-21 21:09:23
+[12]
+[22] Log opened at 2019-10-21 21:10:29
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-10-21 21:10:39
+[22]
+[38] Log opened at 2019-10-21 21:11:04
+[38] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[38] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[38] E: Could not connect to client. :-(
+[38] Log closed at 2019-10-21 21:11:04
+[38]
+[45] Log opened at 2019-10-21 21:11:05
+[45] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[45] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[45] E: Could not connect to client. :-(
+[45] Log closed at 2019-10-21 21:11:05
+[45]
+[59] Log opened at 2019-10-21 21:11:10
+[59] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[59] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[59] E: Could not connect to client. :-(
+[59] Log closed at 2019-10-21 21:11:15
+[59]
+[64] Log opened at 2019-10-21 21:11:30
+[64] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[64] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[64] E: Could not connect to client. :-(
+[64] Log closed at 2019-10-21 21:11:30
+[64]
+[71] Log opened at 2019-10-21 21:13:31
+[71] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[71] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[71] E: Could not connect to client. :-(
+[71] Log closed at 2019-10-21 21:13:31
+[71]
+[78] Log opened at 2019-10-21 21:15:09
+[78] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[78] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[78] E: Could not connect to client. :-(
+[78] Log closed at 2019-10-21 21:15:09
+[78]
+[82] Log opened at 2019-10-21 21:15:31
+[82] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[82] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[82] E: Could not connect to client. :-(
+[82] Log closed at 2019-10-21 21:15:31
+[82]
+[8] Log opened at 2019-10-21 21:28:30
+[8] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[8] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[8] E: Could not connect to client. :-(
+[8] Log closed at 2019-10-21 21:28:30
+[8]
+[14] Log opened at 2019-10-21 21:28:30
+[14] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[14] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[14] E: Could not connect to client. :-(
+[14] Log closed at 2019-10-21 21:28:30
+[14]
+[24] Log opened at 2019-10-21 21:29:14
+[24] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[24] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[24] E: Could not connect to client. :-(
+[24] Log closed at 2019-10-21 21:29:14
+[24]
+[28] Log opened at 2019-10-21 21:29:51
+[28] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[28] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[28] E: Could not connect to client. :-(
+[28] Log closed at 2019-10-21 21:30:01
+[28]
+[36] Log opened at 2019-10-21 21:30:55
+[36] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[36] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[36] E: Could not connect to client. :-(
+[36] Log closed at 2019-10-21 21:30:55
+[36]
+[40] Log opened at 2019-10-21 21:31:30
+[40] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[40] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[40] E: Could not connect to client. :-(
+[40] Log closed at 2019-10-21 21:31:30
+[40]
+[44] Log opened at 2019-10-21 21:31:53
+[44] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[44] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[44] E: Could not connect to client. :-(
+[44] Log closed at 2019-10-21 21:31:53
+[44]
+[49] Log opened at 2019-10-21 21:31:57
+[49] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[49] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[49] E: Could not connect to client. :-(
+[49] Log closed at 2019-10-21 21:31:57
+[49]
+[57] Log opened at 2019-10-21 21:31:58
+[57] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[57] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[57] E: Could not connect to client. :-(
+[57] Log closed at 2019-10-21 21:31:58
+[57]
+[64] Log opened at 2019-10-21 21:31:58
+[64] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[64] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[64] E: Could not connect to client. :-(
+[64] Log closed at 2019-10-21 21:31:58
+[64]
+[79] Log opened at 2019-10-21 21:32:14
+[79] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[79] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[79] E: Could not connect to client. :-(
+[79] Log closed at 2019-10-21 21:32:14
+[79]
+[87] Log opened at 2019-10-21 21:32:15
+[87] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[87] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[87] E: Could not connect to client. :-(
+[87] Log closed at 2019-10-21 21:32:15
+[87]
+[94] Log opened at 2019-10-21 21:32:15
+[94] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[94] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[94] E: Could not connect to client. :-(
+[94] Log closed at 2019-10-21 21:32:15
+[94]
+[101] Log opened at 2019-10-21 21:32:15
+[101] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[101] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[101] E: Could not connect to client. :-(
+[101] Log closed at 2019-10-21 21:32:15
+[101]
+[110] Log opened at 2019-10-21 21:32:30
+[110] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[110] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[110] E: Could not connect to client. :-(
+[110] Log closed at 2019-10-21 21:32:30
+[110]
+[114] Log opened at 2019-10-21 21:32:44
+[114] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[114] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[114] E: Could not connect to client. :-(
+[114] Log closed at 2019-10-21 21:32:44
+[114]
+[118] Log opened at 2019-10-21 21:33:13
+[118] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[118] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[118] E: Could not connect to client. :-(
+[118] Log closed at 2019-10-21 21:33:13
+[118]
+[122] Log opened at 2019-10-21 21:33:17
+[122] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[122] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[122] E: Could not connect to client. :-(
+[122] Log closed at 2019-10-21 21:33:17
+[122]
+[126] Log opened at 2019-10-21 21:33:40
+[126] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[126] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[126] E: Could not connect to client. :-(
+[126] Log closed at 2019-10-21 21:33:40
+[126]
+[130] Log opened at 2019-10-21 21:34:27
+[130] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[130] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[130] E: Could not connect to client. :-(
+[130] Log closed at 2019-10-21 21:34:27
+[130]
+[134] Log opened at 2019-10-21 21:35:17
+[134] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[134] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[134] E: Could not connect to client. :-(
+[134] Log closed at 2019-10-21 21:35:17
+[134]
+[143] Log opened at 2019-10-21 22:20:40
+[143] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[143] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[143] E: Could not connect to client. :-(
+[143] Log closed at 2019-10-21 22:20:40
+[143]
+[150] Log opened at 2019-10-21 22:20:40
+[150] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[150] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[150] E: Could not connect to client. :-(
+[150] Log closed at 2019-10-21 22:20:40
+[150]
+[158] Log opened at 2019-10-21 22:20:41
+[158] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[158] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[158] E: Could not connect to client. :-(
+[158] Log closed at 2019-10-21 22:20:41
+[158]
+[165] Log opened at 2019-10-21 22:20:48
+[165] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[165] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[165] E: Could not connect to client. :-(
+[165] Log closed at 2019-10-21 22:20:48
+[165]
+[192] Log opened at 2019-10-21 22:24:32
+[192] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[192] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[192] E: Could not connect to client. :-(
+[192] Log closed at 2019-10-21 22:24:32
+[192]
+[200] Log opened at 2019-10-21 22:24:33
+[200] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[200] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[200] E: Could not connect to client. :-(
+[200] Log closed at 2019-10-21 22:24:33
+[200]
+[212] Log opened at 2019-10-21 22:46:40
+[212] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[212] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[212] E: Could not connect to client. :-(
+[212] Log closed at 2019-10-21 22:46:40
+[212]
+[216] Log opened at 2019-10-21 22:46:49
+[216] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[216] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[216] E: Could not connect to client. :-(
+[216] Log closed at 2019-10-21 22:46:49
+[216]
+[225] Log opened at 2019-10-21 23:06:31
+[225] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[225] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[225] E: Could not connect to client. :-(
+[225] Log closed at 2019-10-21 23:06:31
+[225]
+[230] Log opened at 2019-10-21 23:09:09
+[230] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[230] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[230] E: Could not connect to client. :-(
+[230] Log closed at 2019-10-21 23:09:19
+[230]
+[240] Log opened at 2019-10-21 23:12:01
+[240] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[240] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[240] E: Could not connect to client. :-(
+[240] Log closed at 2019-10-21 23:12:01
+[240]
+[255] Log opened at 2019-10-21 23:13:31
+[255] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[255] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[255] E: Could not connect to client. :-(
+[255] Log closed at 2019-10-21 23:13:31
+[255]
+[263] Log opened at 2019-10-21 23:13:32
+[263] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[263] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[263] E: Could not connect to client. :-(
+[263] Log closed at 2019-10-21 23:13:32
+[263]
+[6] Log opened at 2019-10-30 23:17:06
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-10-30 23:17:06
+[6]
+[12] Log opened at 2019-10-30 23:17:06
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-10-30 23:17:06
+[12]
+[23] Log opened at 2019-10-30 23:17:26
+[23] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[23] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[23] E: Could not connect to client. :-(
+[23] Log closed at 2019-10-30 23:17:26
+[23]
+[30] Log opened at 2019-10-30 23:17:26
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-10-30 23:17:26
+[30]
+[57] Log opened at 2019-10-30 23:17:38
+[57] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[57] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[57] E: Could not connect to client. :-(
+[57] Log closed at 2019-10-30 23:17:38
+[57]
+[64] Log opened at 2019-10-30 23:17:38
+[64] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[64] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[64] E: Could not connect to client. :-(
+[64] Log closed at 2019-10-30 23:17:38
+[64]
+[71] Log opened at 2019-10-30 23:17:38
+[71] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[71] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[71] E: Could not connect to client. :-(
+[71] Log closed at 2019-10-30 23:17:38
+[71]
+[85] Log opened at 2019-10-30 23:18:37
+[85] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[85] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[85] E: Could not connect to client. :-(
+[85] Log closed at 2019-10-30 23:18:37
+[85]
+[102] Log opened at 2019-10-30 23:18:51
+[102] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[102] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[102] E: Could not connect to client. :-(
+[102] Log closed at 2019-10-30 23:18:51
+[102]
+[109] Log opened at 2019-10-30 23:30:47
+[109] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[109] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[109] E: Could not connect to client. :-(
+[109] Log closed at 2019-10-30 23:30:47
+[109]
+[113] Log opened at 2019-10-30 23:51:31
+[113] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[113] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[113] E: Could not connect to client. :-(
+[113] Log closed at 2019-10-30 23:51:31
+[113]
+[6] Log opened at 2019-11-01 15:21:25
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-01 15:21:25
+[6]
+[12] Log opened at 2019-11-01 15:21:25
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-01 15:21:25
+[12]
+[24] Log opened at 2019-11-01 15:21:52
+[24] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[24] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[24] E: Could not connect to client. :-(
+[24] Log closed at 2019-11-01 15:21:52
+[24]
+[31] Log opened at 2019-11-01 15:21:52
+[31] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[31] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[31] E: Could not connect to client. :-(
+[31] Log closed at 2019-11-01 15:21:52
+[31]
+[182] Log opened at 2019-11-01 15:22:38
+[182] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[182] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[182] E: Could not connect to client. :-(
+[182] Log closed at 2019-11-01 15:22:39
+[182]
+[189] Log opened at 2019-11-01 15:22:39
+[189] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[189] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[189] E: Could not connect to client. :-(
+[189] Log closed at 2019-11-01 15:22:39
+[189]
+[196] Log opened at 2019-11-01 15:22:39
+[196] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[196] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[196] E: Could not connect to client. :-(
+[196] Log closed at 2019-11-01 15:22:39
+[196]
+[236] Log opened at 2019-11-01 15:25:19
+[236] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[236] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[236] E: Could not connect to client. :-(
+[236] Log closed at 2019-11-01 15:25:19
+[236]
+[242] Log opened at 2019-11-01 15:25:27
+[242] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[242] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[242] E: Could not connect to client. :-(
+[242] Log closed at 2019-11-01 15:25:27
+[242]
+[246] Log opened at 2019-11-01 15:26:07
+[246] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[246] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[246] E: Could not connect to client. :-(
+[246] Log closed at 2019-11-01 15:26:07
+[246]
+[250] Log opened at 2019-11-01 15:28:49
+[250] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[250] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[250] E: Could not connect to client. :-(
+[250] Log closed at 2019-11-01 15:28:49
+[250]
+[254] Log opened at 2019-11-01 15:30:23
+[254] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[254] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[254] E: Could not connect to client. :-(
+[254] Log closed at 2019-11-01 15:30:23
+[254]
+[258] Log opened at 2019-11-01 15:30:42
+[258] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[258] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[258] E: Could not connect to client. :-(
+[258] Log closed at 2019-11-01 15:30:42
+[258]
+[262] Log opened at 2019-11-01 15:31:01
+[262] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[262] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[262] E: Could not connect to client. :-(
+[262] Log closed at 2019-11-01 15:31:01
+[262]
+[266] Log opened at 2019-11-01 15:31:13
+[266] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[266] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[266] E: Could not connect to client. :-(
+[266] Log closed at 2019-11-01 15:31:18
+[266]
+[270] Log opened at 2019-11-01 15:31:40
+[270] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[270] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[270] E: Could not connect to client. :-(
+[270] Log closed at 2019-11-01 15:31:40
+[270]
+[293] Log opened at 2019-11-01 15:31:53
+[293] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[293] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[293] E: Could not connect to client. :-(
+[293] Log closed at 2019-11-01 15:31:53
+[293]
+[301] Log opened at 2019-11-01 15:31:54
+[301] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[301] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[301] E: Could not connect to client. :-(
+[301] Log closed at 2019-11-01 15:31:54
+[301]
+[308] Log opened at 2019-11-01 15:32:30
+[308] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[308] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[308] E: Could not connect to client. :-(
+[308] Log closed at 2019-11-01 15:32:30
+[308]
+[10] Log opened at 2019-11-02 19:50:00
+[10] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[10] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[10] E: Could not connect to client. :-(
+[10] Log closed at 2019-11-02 19:50:00
+[10]
+[16] Log opened at 2019-11-02 19:50:00
+[16] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[16] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[16] E: Could not connect to client. :-(
+[16] Log closed at 2019-11-02 19:50:00
+[16]
+[28] Log opened at 2019-11-02 19:50:27
+[28] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[28] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[28] E: Could not connect to client. :-(
+[28] Log closed at 2019-11-02 19:50:27
+[28]
+[36] Log opened at 2019-11-02 19:50:28
+[36] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[36] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[36] E: Could not connect to client. :-(
+[36] Log closed at 2019-11-02 19:50:28
+[36]
+[43] Log opened at 2019-11-02 19:50:29
+[43] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[43] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[43] E: Could not connect to client. :-(
+[43] Log closed at 2019-11-02 19:50:29
+[43]
+[58] Log opened at 2019-11-02 19:50:32
+[58] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[58] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[58] E: Could not connect to client. :-(
+[58] Log closed at 2019-11-02 19:50:32
+[58]
+[66] Log opened at 2019-11-02 19:50:33
+[66] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[66] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[66] E: Could not connect to client. :-(
+[66] Log closed at 2019-11-02 19:50:33
+[66]
+[73] Log opened at 2019-11-02 19:50:33
+[73] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[73] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[73] E: Could not connect to client. :-(
+[73] Log closed at 2019-11-02 19:50:33
+[73]
+[80] Log opened at 2019-11-02 19:50:33
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-02 19:50:33
+[80]
+[6] Log opened at 2019-11-02 19:56:48
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 19:56:48
+[6]
+[12] Log opened at 2019-11-02 19:56:48
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 19:56:48
+[12]
+[29] Log opened at 2019-11-02 19:56:54
+[29] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[29] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[29] E: Could not connect to client. :-(
+[29] Log closed at 2019-11-02 19:56:54
+[29]
+[37] Log opened at 2019-11-02 19:56:55
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-11-02 19:56:55
+[37]
+[44] Log opened at 2019-11-02 19:56:55
+[44] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[44] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[44] E: Could not connect to client. :-(
+[44] Log closed at 2019-11-02 19:56:55
+[44]
+[59] Log opened at 2019-11-02 19:56:58
+[59] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[59] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[59] E: Could not connect to client. :-(
+[59] Log closed at 2019-11-02 19:56:58
+[59]
+[7] Log opened at 2019-11-02 19:58:10
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-02 19:58:10
+[7]
+[13] Log opened at 2019-11-02 19:58:10
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-02 19:58:10
+[13]
+[23] Log opened at 2019-11-02 19:58:34
+[23] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[23] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[23] E: Could not connect to client. :-(
+[23] Log closed at 2019-11-02 19:58:34
+[23]
+[31] Log opened at 2019-11-02 19:58:35
+[31] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[31] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[31] E: Could not connect to client. :-(
+[31] Log closed at 2019-11-02 19:58:35
+[31]
+[38] Log opened at 2019-11-02 19:58:35
+[38] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[38] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[38] E: Could not connect to client. :-(
+[38] Log closed at 2019-11-02 19:58:35
+[38]
+[53] Log opened at 2019-11-02 19:58:38
+[53] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[53] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[53] E: Could not connect to client. :-(
+[53] Log closed at 2019-11-02 19:58:38
+[53]
+[61] Log opened at 2019-11-02 19:58:39
+[61] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[61] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[61] E: Could not connect to client. :-(
+[61] Log closed at 2019-11-02 19:58:39
+[61]
+[68] Log opened at 2019-11-02 19:58:39
+[68] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[68] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[68] E: Could not connect to client. :-(
+[68] Log closed at 2019-11-02 19:58:39
+[68]
+[75] Log opened at 2019-11-02 19:58:39
+[75] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[75] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[75] E: Could not connect to client. :-(
+[75] Log closed at 2019-11-02 19:58:39
+[75]
+[83] Log opened at 2019-11-02 19:58:49
+[83] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[83] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[83] E: Could not connect to client. :-(
+[83] Log closed at 2019-11-02 19:58:49
+[83]
+[83] Log opened at 2019-11-02 19:58:49
+[84] Log opened at 2019-11-02 19:58:49
+[83] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[83] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[83] E: Could not connect to client. :-(
+[83] Log closed at 2019-11-02 19:58:49
+[83]
+[83] Log opened at 2019-11-02 19:58:49
+[84] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[84] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[84] E: Could not connect to client. :-(
+[84] Log closed at 2019-11-02 19:58:49
+[84]
+[83] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[83] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[83] E: Could not connect to client. :-(
+[83] Log closed at 2019-11-02 19:58:49
+[83]
+[84] Log opened at 2019-11-02 19:58:49
+[84] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[84] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[84] E: Could not connect to client. :-(
+[84] Log closed at 2019-11-02 19:58:49
+[84]
+[84] Log opened at 2019-11-02 19:58:49
+[84] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[84] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[84] E: Could not connect to client. :-(
+[84] Log closed at 2019-11-02 19:58:49
+[84]
+[6] Log opened at 2019-11-02 20:10:09
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 20:10:09
+[6]
+[12] Log opened at 2019-11-02 20:10:09
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 20:10:14
+[12]
+[22] Log opened at 2019-11-02 20:10:48
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-02 20:10:48
+[22]
+[30] Log opened at 2019-11-02 20:10:49
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-11-02 20:10:49
+[30]
+[37] Log opened at 2019-11-02 20:10:49
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-11-02 20:10:49
+[37]
+[52] Log opened at 2019-11-02 20:10:55
+[52] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[52] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[52] E: Could not connect to client. :-(
+[52] Log closed at 2019-11-02 20:10:55
+[52]
+[60] Log opened at 2019-11-02 20:10:56
+[60] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[60] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[60] E: Could not connect to client. :-(
+[60] Log closed at 2019-11-02 20:10:56
+[60]
+[67] Log opened at 2019-11-02 20:10:56
+[67] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[67] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[67] E: Could not connect to client. :-(
+[67] Log closed at 2019-11-02 20:10:56
+[67]
+[74] Log opened at 2019-11-02 20:10:56
+[74] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[74] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[74] E: Could not connect to client. :-(
+[74] Log closed at 2019-11-02 20:10:56
+[74]
+[6] Log opened at 2019-11-02 20:15:25
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 20:15:25
+[6]
+[12] Log opened at 2019-11-02 20:15:26
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 20:15:26
+[12]
+[22] Log opened at 2019-11-02 20:15:58
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-02 20:15:58
+[22]
+[30] Log opened at 2019-11-02 20:15:59
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-11-02 20:15:59
+[30]
+[37] Log opened at 2019-11-02 20:15:59
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-11-02 20:16:00
+[37]
+[52] Log opened at 2019-11-02 20:16:03
+[52] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[52] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[52] E: Could not connect to client. :-(
+[52] Log closed at 2019-11-02 20:16:03
+[52]
+[60] Log opened at 2019-11-02 20:16:04
+[60] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[60] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[60] E: Could not connect to client. :-(
+[60] Log closed at 2019-11-02 20:16:04
+[60]
+[67] Log opened at 2019-11-02 20:16:04
+[67] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[67] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[67] E: Could not connect to client. :-(
+[67] Log closed at 2019-11-02 20:16:04
+[67]
+[74] Log opened at 2019-11-02 20:16:04
+[74] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[74] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[74] E: Could not connect to client. :-(
+[74] Log closed at 2019-11-02 20:16:04
+[74]
+[7] Log opened at 2019-11-02 20:20:14
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-02 20:20:14
+[7]
+[13] Log opened at 2019-11-02 20:20:14
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-02 20:20:14
+[13]
+[7] Log opened at 2019-11-02 20:22:15
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-02 20:22:15
+[7]
+[13] Log opened at 2019-11-02 20:22:15
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-02 20:22:15
+[13]
+[6] Log opened at 2019-11-02 20:50:16
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 20:50:16
+[6]
+[12] Log opened at 2019-11-02 20:50:17
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 20:50:17
+[12]
+[6] Log opened at 2019-11-02 20:56:10
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 20:56:10
+[6]
+[12] Log opened at 2019-11-02 20:56:10
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 20:56:10
+[12]
+[6] Log opened at 2019-11-02 21:00:59
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:00:59
+[6]
+[12] Log opened at 2019-11-02 21:00:59
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:00:59
+[12]
+[6] Log opened at 2019-11-02 21:03:30
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:03:35
+[6]
+[12] Log opened at 2019-11-02 21:03:36
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:03:36
+[12]
+[6] Log opened at 2019-11-02 21:05:30
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:05:30
+[6]
+[12] Log opened at 2019-11-02 21:05:30
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:05:30
+[12]
+[6] Log opened at 2019-11-02 21:12:17
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:12:17
+[6]
+[12] Log opened at 2019-11-02 21:12:17
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:12:22
+[12]
+[6] Log opened at 2019-11-02 21:15:28
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:15:28
+[6]
+[12] Log opened at 2019-11-02 21:15:28
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:15:28
+[12]
+[7] Log opened at 2019-11-02 21:18:55
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-02 21:18:55
+[7]
+[13] Log opened at 2019-11-02 21:18:55
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-02 21:18:55
+[13]
+[6] Log opened at 2019-11-02 21:19:34
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:19:34
+[6]
+[12] Log opened at 2019-11-02 21:19:35
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:19:35
+[12]
+[6] Log opened at 2019-11-02 21:20:42
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:20:42
+[6]
+[12] Log opened at 2019-11-02 21:20:42
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:20:42
+[12]
+[6] Log opened at 2019-11-02 21:25:01
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:25:01
+[6]
+[12] Log opened at 2019-11-02 21:25:01
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:25:01
+[12]
+[7] Log opened at 2019-11-02 21:30:44
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-02 21:30:49
+[7]
+[11] Log opened at 2019-11-02 21:30:49
+[11] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[11] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[11] E: Could not connect to client. :-(
+[11] Log closed at 2019-11-02 21:30:49
+[11]
+[6] Log opened at 2019-11-02 21:49:29
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:49:29
+[6]
+[12] Log opened at 2019-11-02 21:49:29
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:49:29
+[12]
+[7] Log opened at 2019-11-02 21:51:10
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-02 21:51:10
+[7]
+[13] Log opened at 2019-11-02 21:51:10
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-02 21:51:10
+[13]
+[7] Log opened at 2019-11-02 21:51:42
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-02 21:51:42
+[7]
+[13] Log opened at 2019-11-02 21:51:42
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-02 21:51:42
+[13]
+[6] Log opened at 2019-11-02 21:53:33
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:53:33
+[6]
+[12] Log opened at 2019-11-02 21:53:33
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:53:33
+[12]
+[22] Log opened at 2019-11-02 21:55:02
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-02 21:55:02
+[22]
+[6] Log opened at 2019-11-02 21:56:07
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 21:56:07
+[6]
+[12] Log opened at 2019-11-02 21:56:07
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 21:56:07
+[12]
+[22] Log opened at 2019-11-02 21:56:27
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-02 21:56:47
+[22]
+[48] Log opened at 2019-11-02 22:24:43
+[48] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[48] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[48] E: Could not connect to client. :-(
+[48] Log closed at 2019-11-02 22:24:43
+[48]
+[56] Log opened at 2019-11-02 22:24:44
+[56] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[56] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[56] E: Could not connect to client. :-(
+[56] Log closed at 2019-11-02 22:24:44
+[56]
+[63] Log opened at 2019-11-02 22:24:44
+[63] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[63] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[63] E: Could not connect to client. :-(
+[63] Log closed at 2019-11-02 22:24:44
+[63]
+[7] Log opened at 2019-11-02 22:25:05
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-02 22:25:05
+[7]
+[13] Log opened at 2019-11-02 22:25:06
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-02 22:25:11
+[13]
+[23] Log opened at 2019-11-02 22:26:23
+[23] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[23] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[23] E: Could not connect to client. :-(
+[23] Log closed at 2019-11-02 22:26:23
+[23]
+[30] Log opened at 2019-11-02 22:26:23
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-11-02 22:26:23
+[30]
+[38] Log opened at 2019-11-02 22:26:24
+[38] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[38] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[38] E: Could not connect to client. :-(
+[38] Log closed at 2019-11-02 22:26:24
+[38]
+[45] Log opened at 2019-11-02 22:28:08
+[45] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[45] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[45] E: Could not connect to client. :-(
+[45] Log closed at 2019-11-02 22:28:13
+[45]
+[6] Log opened at 2019-11-02 22:30:03
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 22:30:03
+[6]
+[12] Log opened at 2019-11-02 22:30:03
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 22:30:03
+[12]
+[6] Log opened at 2019-11-02 22:33:42
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 22:33:42
+[6]
+[12] Log opened at 2019-11-02 22:33:42
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 22:33:42
+[12]
+[22] Log opened at 2019-11-02 22:39:07
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-02 22:39:27
+[22]
+[29] Log opened at 2019-11-02 22:39:27
+[29] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[29] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[29] E: Could not connect to client. :-(
+[29] Log closed at 2019-11-02 22:39:32
+[29]
+[37] Log opened at 2019-11-02 22:39:33
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-11-02 22:39:53
+[37]
+[6] Log opened at 2019-11-02 22:44:20
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 22:44:25
+[6]
+[12] Log opened at 2019-11-02 22:44:25
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 22:44:25
+[12]
+[22] Log opened at 2019-11-02 22:47:37
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-02 22:47:37
+[22]
+[6] Log opened at 2019-11-02 22:59:40
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 22:59:40
+[6]
+[12] Log opened at 2019-11-02 22:59:40
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 22:59:40
+[12]
+[6] Log opened at 2019-11-02 23:00:25
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 23:00:26
+[6]
+[12] Log opened at 2019-11-02 23:00:26
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 23:00:26
+[12]
+[7] Log opened at 2019-11-02 23:00:39
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-02 23:00:44
+[7]
+[13] Log opened at 2019-11-02 23:00:44
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-02 23:00:44
+[13]
+[6] Log opened at 2019-11-02 23:08:23
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 23:08:23
+[6]
+[12] Log opened at 2019-11-02 23:08:23
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 23:08:28
+[12]
+[22] Log opened at 2019-11-02 23:11:48
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-02 23:11:58
+[22]
+[7] Log opened at 2019-11-02 23:14:13
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-02 23:14:13
+[7]
+[13] Log opened at 2019-11-02 23:14:13
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-02 23:14:13
+[13]
+[6] Log opened at 2019-11-02 23:19:55
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 23:19:55
+[6]
+[12] Log opened at 2019-11-02 23:19:55
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 23:19:55
+[12]
+[6] Log opened at 2019-11-02 23:22:56
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 23:22:56
+[6]
+[12] Log opened at 2019-11-02 23:22:56
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 23:22:56
+[12]
+[22] Log opened at 2019-11-02 23:23:23
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-02 23:23:28
+[22]
+[29] Log opened at 2019-11-02 23:23:28
+[29] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[29] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[29] E: Could not connect to client. :-(
+[29] Log closed at 2019-11-02 23:23:28
+[29]
+[37] Log opened at 2019-11-02 23:23:29
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-11-02 23:23:29
+[37]
+[48] Log opened at 2019-11-02 23:24:22
+[48] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[48] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[48] E: Could not connect to client. :-(
+[48] Log closed at 2019-11-02 23:24:22
+[48]
+[54] Log opened at 2019-11-02 23:24:22
+[54] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[54] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[54] E: Could not connect to client. :-(
+[54] Log closed at 2019-11-02 23:24:22
+[54]
+[59] Log opened at 2019-11-02 23:25:35
+[59] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[59] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[59] E: Could not connect to client. :-(
+[59] Log closed at 2019-11-02 23:25:35
+[59]
+[65] Log opened at 2019-11-02 23:25:35
+[66] Log opened at 2019-11-02 23:25:47
+[6] Log opened at 2019-11-02 23:27:29
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 23:27:29
+[6]
+[12] Log opened at 2019-11-02 23:27:29
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 23:27:29
+[12]
+[24] Log opened at 2019-11-02 23:28:00
+[24] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[24] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[24] E: Could not connect to client. :-(
+[24] Log closed at 2019-11-02 23:28:10
+[24]
+[30] Log opened at 2019-11-02 23:28:10
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-11-02 23:28:10
+[30]
+[42] Log opened at 2019-11-02 23:29:15
+[42] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[42] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[42] E: Could not connect to client. :-(
+[42] Log closed at 2019-11-02 23:29:15
+[42]
+[48] Log opened at 2019-11-02 23:29:15
+[48] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[48] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[48] E: Could not connect to client. :-(
+[48] Log closed at 2019-11-02 23:29:15
+[48]
+[53] Log opened at 2019-11-02 23:29:23
+[53] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[53] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[53] E: Could not connect to client. :-(
+[53] Log closed at 2019-11-02 23:29:28
+[53]
+[59] Log opened at 2019-11-02 23:29:28
+[59] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[59] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[59] E: Could not connect to client. :-(
+[59] Log closed at 2019-11-02 23:29:28
+[59]
+[6] Log opened at 2019-11-02 23:33:07
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 23:33:07
+[6]
+[12] Log opened at 2019-11-02 23:33:07
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 23:33:07
+[12]
+[26] Log opened at 2019-11-02 23:33:30
+[26] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[26] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[26] E: Could not connect to client. :-(
+[26] Log closed at 2019-11-02 23:33:30
+[26]
+[41] Log opened at 2019-11-02 23:33:36
+[41] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[41] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[41] E: Could not connect to client. :-(
+[41] Log closed at 2019-11-02 23:33:36
+[41]
+[41] Log opened at 2019-11-02 23:33:37
+[41] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[41] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[41] E: Could not connect to client. :-(
+[41] Log closed at 2019-11-02 23:33:37
+[41]
+[41] Log opened at 2019-11-02 23:33:37
+[41] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[41] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[41] E: Could not connect to client. :-(
+[41] Log closed at 2019-11-02 23:33:37
+[41]
+[50] Log opened at 2019-11-02 23:33:37
+[50] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[50] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[50] E: Could not connect to client. :-(
+[50] Log closed at 2019-11-02 23:33:37
+[50]
+[57] Log opened at 2019-11-02 23:33:37
+[57] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[57] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[57] E: Could not connect to client. :-(
+[57] Log closed at 2019-11-02 23:33:37
+[57]
+[67] Log opened at 2019-11-02 23:33:38
+[67] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[67] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[67] E: Could not connect to client. :-(
+[67] Log closed at 2019-11-02 23:33:38
+[67]
+[57] Log opened at 2019-11-02 23:33:38
+[57] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[57] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[57] E: Could not connect to client. :-(
+[57] Log closed at 2019-11-02 23:33:38
+[57]
+[57] Log opened at 2019-11-02 23:33:38
+[57] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[57] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[57] E: Could not connect to client. :-(
+[57] Log closed at 2019-11-02 23:33:38
+[57]
+[74] Log opened at 2019-11-02 23:33:38
+[74] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[74] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[74] E: Could not connect to client. :-(
+[74] Log closed at 2019-11-02 23:33:38
+[74]
+[79] Log opened at 2019-11-02 23:33:39
+[79] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[79] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[79] E: Could not connect to client. :-(
+[79] Log closed at 2019-11-02 23:33:39
+[79]
+[86] Log opened at 2019-11-02 23:33:39
+[86] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[86] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[86] E: Could not connect to client. :-(
+[86] Log closed at 2019-11-02 23:33:39
+[86]
+[90] Log opened at 2019-11-02 23:34:22
+[90] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[90] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[90] E: Could not connect to client. :-(
+[90] Log closed at 2019-11-02 23:34:22
+[90]
+[90] Log opened at 2019-11-02 23:34:22
+[91] Log opened at 2019-11-02 23:34:22
+[90] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[90] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[90] E: Could not connect to client. :-(
+[90] Log closed at 2019-11-02 23:34:22
+[90]
+[90] Log opened at 2019-11-02 23:34:22
+[91] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[91] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[91] E: Could not connect to client. :-(
+[91] Log closed at 2019-11-02 23:34:22
+[91]
+[90] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[90] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[90] E: Could not connect to client. :-(
+[90] Log closed at 2019-11-02 23:34:22
+[90]
+[91] Log opened at 2019-11-02 23:34:22
+[91] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[91] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[91] E: Could not connect to client. :-(
+[91] Log closed at 2019-11-02 23:34:22
+[91]
+[91] Log opened at 2019-11-02 23:34:22
+[91] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[91] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[91] E: Could not connect to client. :-(
+[91] Log closed at 2019-11-02 23:34:23
+[91]
+[99] Log opened at 2019-11-02 23:34:45
+[99] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[99] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[99] E: Could not connect to client. :-(
+[99] Log closed at 2019-11-02 23:34:45
+[99]
+[103] Log opened at 2019-11-02 23:35:04
+[103] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[103] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[103] E: Could not connect to client. :-(
+[103] Log closed at 2019-11-02 23:35:04
+[103]
+[118] Log opened at 2019-11-02 23:35:09
+[118] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[118] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[118] E: Could not connect to client. :-(
+[118] Log closed at 2019-11-02 23:35:09
+[118]
+[126] Log opened at 2019-11-02 23:35:10
+[126] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[126] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[126] E: Could not connect to client. :-(
+[126] Log closed at 2019-11-02 23:35:10
+[126]
+[134] Log opened at 2019-11-02 23:44:00
+[134] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[134] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[134] E: Could not connect to client. :-(
+[134] Log closed at 2019-11-02 23:44:00
+[134]
+[149] Log opened at 2019-11-02 23:44:14
+[149] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[149] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[149] E: Could not connect to client. :-(
+[149] Log closed at 2019-11-02 23:44:14
+[149]
+[157] Log opened at 2019-11-02 23:44:15
+[157] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[157] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[157] E: Could not connect to client. :-(
+[157] Log closed at 2019-11-02 23:44:15
+[157]
+[6] Log opened at 2019-11-02 23:46:08
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-02 23:46:08
+[6]
+[12] Log opened at 2019-11-02 23:46:09
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-02 23:46:09
+[12]
+[22] Log opened at 2019-11-02 23:46:41
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-02 23:46:41
+[22]
+[30] Log opened at 2019-11-02 23:46:42
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-11-02 23:46:42
+[30]
+[37] Log opened at 2019-11-02 23:46:42
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-11-02 23:46:42
+[37]
+[52] Log opened at 2019-11-02 23:46:47
+[52] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[52] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[52] E: Could not connect to client. :-(
+[52] Log closed at 2019-11-02 23:46:47
+[52]
+[60] Log opened at 2019-11-02 23:46:48
+[60] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[60] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[60] E: Could not connect to client. :-(
+[60] Log closed at 2019-11-02 23:46:48
+[60]
+[67] Log opened at 2019-11-02 23:46:48
+[67] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[67] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[67] E: Could not connect to client. :-(
+[67] Log closed at 2019-11-02 23:46:48
+[67]
+[71] Log opened at 2019-11-02 23:46:48
+[71] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[71] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[71] E: Could not connect to client. :-(
+[71] Log closed at 2019-11-02 23:46:48
+[71]
+[82] Log opened at 2019-11-03 00:19:01
+[82] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[82] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[82] E: Could not connect to client. :-(
+[82] Log closed at 2019-11-03 00:19:01
+[82]
+[86] Log opened at 2019-11-03 00:19:05
+[86] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[86] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[86] E: Could not connect to client. :-(
+[86] Log closed at 2019-11-03 00:19:05
+[86]
+[90] Log opened at 2019-11-03 00:25:00
+[90] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[90] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[90] E: Could not connect to client. :-(
+[90] Log closed at 2019-11-03 00:25:00
+[90]
+[94] Log opened at 2019-11-03 00:30:27
+[94] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[94] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[94] E: Could not connect to client. :-(
+[94] Log closed at 2019-11-03 00:30:27
+[94]
+[98] Log opened at 2019-11-03 00:33:20
+[98] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[98] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[98] E: Could not connect to client. :-(
+[98] Log closed at 2019-11-03 00:33:20
+[98]
+[102] Log opened at 2019-11-03 00:37:38
+[102] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[102] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[102] E: Could not connect to client. :-(
+[102] Log closed at 2019-11-03 00:37:38
+[102]
+[106] Log opened at 2019-11-03 00:39:10
+[106] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[106] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[106] E: Could not connect to client. :-(
+[106] Log closed at 2019-11-03 00:39:10
+[106]
+[110] Log opened at 2019-11-03 00:39:19
+[110] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[110] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[110] E: Could not connect to client. :-(
+[110] Log closed at 2019-11-03 00:39:19
+[110]
+[114] Log opened at 2019-11-03 00:41:35
+[114] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[114] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[114] E: Could not connect to client. :-(
+[114] Log closed at 2019-11-03 00:41:35
+[114]
+[129] Log opened at 2019-11-03 00:41:42
+[129] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[129] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[129] E: Could not connect to client. :-(
+[129] Log closed at 2019-11-03 00:41:42
+[129]
+[137] Log opened at 2019-11-03 00:41:43
+[137] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[137] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[137] E: Could not connect to client. :-(
+[137] Log closed at 2019-11-03 00:41:43
+[137]
+[144] Log opened at 2019-11-03 00:41:50
+[144] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[144] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[144] E: Could not connect to client. :-(
+[144] Log closed at 2019-11-03 00:41:50
+[144]
+[148] Log opened at 2019-11-03 00:43:55
+[148] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[148] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[148] E: Could not connect to client. :-(
+[148] Log closed at 2019-11-03 00:43:55
+[148]
+[152] Log opened at 2019-11-03 00:44:14
+[152] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[152] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[152] E: Could not connect to client. :-(
+[152] Log closed at 2019-11-03 00:44:14
+[152]
+[156] Log opened at 2019-11-03 00:44:25
+[156] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[156] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[156] E: Could not connect to client. :-(
+[156] Log closed at 2019-11-03 00:44:25
+[156]
+[160] Log opened at 2019-11-03 00:44:57
+[160] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[160] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[160] E: Could not connect to client. :-(
+[160] Log closed at 2019-11-03 00:44:57
+[160]
+[164] Log opened at 2019-11-03 00:48:10
+[164] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[164] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[164] E: Could not connect to client. :-(
+[164] Log closed at 2019-11-03 00:48:10
+[164]
+[168] Log opened at 2019-11-03 00:48:15
+[168] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[168] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[168] E: Could not connect to client. :-(
+[168] Log closed at 2019-11-03 00:48:15
+[168]
+[172] Log opened at 2019-11-03 00:48:45
+[172] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[172] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[172] E: Could not connect to client. :-(
+[172] Log closed at 2019-11-03 00:48:45
+[172]
+[176] Log opened at 2019-11-03 00:48:50
+[176] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[176] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[176] E: Could not connect to client. :-(
+[176] Log closed at 2019-11-03 00:48:50
+[176]
+[180] Log opened at 2019-11-03 00:48:57
+[180] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[180] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[180] E: Could not connect to client. :-(
+[180] Log closed at 2019-11-03 00:48:57
+[180]
+[184] Log opened at 2019-11-03 00:51:09
+[184] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[184] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[184] E: Could not connect to client. :-(
+[184] Log closed at 2019-11-03 00:51:09
+[184]
+[188] Log opened at 2019-11-03 00:52:10
+[188] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[188] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[188] E: Could not connect to client. :-(
+[188] Log closed at 2019-11-03 00:52:10
+[188]
+[192] Log opened at 2019-11-03 00:53:05
+[192] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[192] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[192] E: Could not connect to client. :-(
+[192] Log closed at 2019-11-03 00:53:05
+[192]
+[196] Log opened at 2019-11-03 00:53:17
+[196] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[196] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[196] E: Could not connect to client. :-(
+[196] Log closed at 2019-11-03 00:53:17
+[196]
+[200] Log opened at 2019-11-03 00:53:52
+[200] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[200] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[200] E: Could not connect to client. :-(
+[200] Log closed at 2019-11-03 00:53:52
+[200]
+[204] Log opened at 2019-11-03 00:54:15
+[204] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[204] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[204] E: Could not connect to client. :-(
+[204] Log closed at 2019-11-03 00:54:16
+[204]
+[208] Log opened at 2019-11-03 00:54:38
+[208] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[208] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[208] E: Could not connect to client. :-(
+[208] Log closed at 2019-11-03 00:54:38
+[208]
+[212] Log opened at 2019-11-03 00:55:16
+[212] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[212] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[212] E: Could not connect to client. :-(
+[212] Log closed at 2019-11-03 00:55:16
+[212]
+[216] Log opened at 2019-11-03 01:08:50
+[216] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[216] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[216] E: Could not connect to client. :-(
+[216] Log closed at 2019-11-03 01:08:50
+[216]
+[220] Log opened at 2019-11-03 01:10:15
+[220] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[220] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[220] E: Could not connect to client. :-(
+[220] Log closed at 2019-11-03 01:10:15
+[220]
+[224] Log opened at 2019-11-03 01:10:52
+[224] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[224] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[224] E: Could not connect to client. :-(
+[224] Log closed at 2019-11-03 01:10:52
+[224]
+[228] Log opened at 2019-11-03 01:11:26
+[228] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[228] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[228] E: Could not connect to client. :-(
+[228] Log closed at 2019-11-03 01:11:26
+[228]
+[232] Log opened at 2019-11-03 01:16:20
+[232] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[232] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[232] E: Could not connect to client. :-(
+[232] Log closed at 2019-11-03 01:16:20
+[232]
+[236] Log opened at 2019-11-03 01:16:25
+[236] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[236] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[236] E: Could not connect to client. :-(
+[236] Log closed at 2019-11-03 01:16:25
+[236]
+[240] Log opened at 2019-11-03 12:25:41
+[240] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[240] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[240] E: Could not connect to client. :-(
+[240] Log closed at 2019-11-03 12:25:41
+[240]
+[244] Log opened at 2019-11-03 12:25:47
+[244] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[244] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[244] E: Could not connect to client. :-(
+[244] Log closed at 2019-11-03 12:25:47
+[244]
+[76] Log opened at 2019-11-03 12:28:58
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 12:28:58
+[76]
+[76] Log opened at 2019-11-03 12:28:58
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 12:28:58
+[76]
+[76] Log opened at 2019-11-03 12:28:58
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 12:28:58
+[76]
+[76] Log opened at 2019-11-03 12:28:58
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 12:28:58
+[76]
+[76] Log opened at 2019-11-03 14:54:59
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 14:54:59
+[76]
+[76] Log opened at 2019-11-03 14:55:00
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 14:55:00
+[76]
+[76] Log opened at 2019-11-03 14:55:00
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 14:55:00
+[76]
+[76] Log opened at 2019-11-03 14:55:00
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 14:55:00
+[76]
+[75] Log opened at 2019-11-03 14:58:29
+[75] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[75] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[75] E: Could not connect to client. :-(
+[75] Log closed at 2019-11-03 14:58:29
+[75]
+[75] Log opened at 2019-11-03 14:58:29
+[75] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[75] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[75] E: Could not connect to client. :-(
+[75] Log closed at 2019-11-03 14:58:29
+[75]
+[75] Log opened at 2019-11-03 14:58:29
+[75] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[75] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[75] E: Could not connect to client. :-(
+[75] Log closed at 2019-11-03 14:58:29
+[75]
+[76] Log opened at 2019-11-03 15:05:51
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 15:05:51
+[76]
+[75] Log opened at 2019-11-03 15:05:52
+[75] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[75] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[75] E: Could not connect to client. :-(
+[75] Log closed at 2019-11-03 15:05:52
+[75]
+[76] Log opened at 2019-11-03 15:05:53
+[75] Log opened at 2019-11-03 15:05:53
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 15:05:53
+[76]
+[76] Log opened at 2019-11-03 15:05:53
+[75] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[75] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[75] E: Could not connect to client. :-(
+[75] Log closed at 2019-11-03 15:05:53
+[75]
+[75] Log opened at 2019-11-03 15:05:53
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 15:05:53
+[76]
+[76] Log opened at 2019-11-03 15:05:53
+[75] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[75] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[75] E: Could not connect to client. :-(
+[75] Log closed at 2019-11-03 15:05:53
+[75]
+[75] Log opened at 2019-11-03 15:05:53
+[76] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[76] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[76] E: Could not connect to client. :-(
+[76] Log closed at 2019-11-03 15:05:53
+[76]
+[75] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[75] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[75] E: Could not connect to client. :-(
+[75] Log closed at 2019-11-03 15:05:53
+[75]
+[6] Log opened at 2019-11-03 15:15:37
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-03 15:15:37
+[6]
+[12] Log opened at 2019-11-03 15:15:37
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-03 15:15:37
+[12]
+[22] Log opened at 2019-11-03 15:16:15
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-03 15:16:15
+[22]
+[30] Log opened at 2019-11-03 15:16:17
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-11-03 15:16:17
+[30]
+[37] Log opened at 2019-11-03 15:16:17
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-11-03 15:16:17
+[37]
+[52] Log opened at 2019-11-03 15:16:25
+[52] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[52] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[52] E: Could not connect to client. :-(
+[52] Log closed at 2019-11-03 15:16:25
+[52]
+[60] Log opened at 2019-11-03 15:16:27
+[60] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[60] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[60] E: Could not connect to client. :-(
+[60] Log closed at 2019-11-03 15:16:27
+[60]
+[67] Log opened at 2019-11-03 15:16:27
+[67] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[67] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[67] E: Could not connect to client. :-(
+[67] Log closed at 2019-11-03 15:16:27
+[67]
+[71] Log opened at 2019-11-03 15:16:27
+[71] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[71] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[71] E: Could not connect to client. :-(
+[71] Log closed at 2019-11-03 15:16:27
+[71]
+[75] Log opened at 2019-11-03 15:16:27
+[75] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[75] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[75] E: Could not connect to client. :-(
+[75] Log closed at 2019-11-03 15:16:27
+[75]
+[80] Log opened at 2019-11-03 15:17:37
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:17:37
+[80]
+[80] Log opened at 2019-11-03 15:17:38
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:17:38
+[80]
+[80] Log opened at 2019-11-03 15:17:38
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:17:38
+[80]
+[81] Log opened at 2019-11-03 15:19:04
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:19:04
+[81]
+[81] Log opened at 2019-11-03 15:19:04
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:19:04
+[81]
+[81] Log opened at 2019-11-03 15:19:04
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:19:04
+[81]
+[80] Log opened at 2019-11-03 15:20:00
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:20:01
+[80]
+[80] Log opened at 2019-11-03 15:20:01
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:20:01
+[80]
+[80] Log opened at 2019-11-03 15:20:01
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:20:01
+[80]
+[81] Log opened at 2019-11-03 15:21:33
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:21:34
+[81]
+[81] Log opened at 2019-11-03 15:21:34
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:21:34
+[81]
+[81] Log opened at 2019-11-03 15:21:34
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:21:34
+[81]
+[80] Log opened at 2019-11-03 15:21:44
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:21:44
+[80]
+[80] Log opened at 2019-11-03 15:21:44
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:21:44
+[80]
+[80] Log opened at 2019-11-03 15:21:44
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:21:44
+[80]
+[81] Log opened at 2019-11-03 15:21:53
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:21:53
+[81]
+[81] Log opened at 2019-11-03 15:21:53
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:21:53
+[81]
+[81] Log opened at 2019-11-03 15:21:53
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:21:53
+[81]
+[80] Log opened at 2019-11-03 15:22:27
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:22:27
+[80]
+[80] Log opened at 2019-11-03 15:22:28
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:22:28
+[80]
+[80] Log opened at 2019-11-03 15:22:28
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:22:28
+[80]
+[80] Log opened at 2019-11-03 15:22:28
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:22:28
+[80]
+[81] Log opened at 2019-11-03 15:24:47
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:24:47
+[81]
+[81] Log opened at 2019-11-03 15:24:47
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:24:47
+[81]
+[81] Log opened at 2019-11-03 15:24:47
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:24:47
+[81]
+[81] Log opened at 2019-11-03 15:24:47
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:24:47
+[81]
+[80] Log opened at 2019-11-03 15:24:51
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:24:51
+[80]
+[80] Log opened at 2019-11-03 15:24:52
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:24:52
+[80]
+[80] Log opened at 2019-11-03 15:24:52
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:24:52
+[80]
+[80] Log opened at 2019-11-03 15:24:52
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:24:52
+[80]
+[81] Log opened at 2019-11-03 15:33:09
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:33:10
+[81]
+[81] Log opened at 2019-11-03 15:33:11
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:33:11
+[81]
+[81] Log opened at 2019-11-03 15:33:11
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:33:11
+[81]
+[81] Log opened at 2019-11-03 15:33:11
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:33:11
+[81]
+[80] Log opened at 2019-11-03 15:33:57
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:33:57
+[80]
+[80] Log opened at 2019-11-03 15:33:58
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:33:58
+[80]
+[80] Log opened at 2019-11-03 15:33:58
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:33:58
+[80]
+[80] Log opened at 2019-11-03 15:33:58
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:33:58
+[80]
+[81] Log opened at 2019-11-03 15:38:35
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:38:35
+[81]
+[81] Log opened at 2019-11-03 15:38:36
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:38:36
+[81]
+[81] Log opened at 2019-11-03 15:38:36
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:38:36
+[81]
+[81] Log opened at 2019-11-03 15:38:36
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:38:36
+[81]
+[80] Log opened at 2019-11-03 15:38:44
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:38:44
+[80]
+[80] Log opened at 2019-11-03 15:38:45
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:38:45
+[80]
+[80] Log opened at 2019-11-03 15:38:45
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:38:45
+[80]
+[80] Log opened at 2019-11-03 15:38:45
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:38:45
+[80]
+[81] Log opened at 2019-11-03 15:38:57
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:38:57
+[81]
+[81] Log opened at 2019-11-03 15:38:57
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:38:57
+[81]
+[81] Log opened at 2019-11-03 15:38:57
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:38:58
+[81]
+[81] Log opened at 2019-11-03 15:38:58
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:38:58
+[81]
+[80] Log opened at 2019-11-03 15:40:58
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:40:58
+[80]
+[80] Log opened at 2019-11-03 15:41:00
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:41:00
+[80]
+[80] Log opened at 2019-11-03 15:41:00
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:41:00
+[80]
+[80] Log opened at 2019-11-03 15:41:00
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:41:00
+[80]
+[81] Log opened at 2019-11-03 15:44:42
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:44:42
+[81]
+[81] Log opened at 2019-11-03 15:44:42
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:44:42
+[81]
+[81] Log opened at 2019-11-03 15:44:42
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:44:42
+[81]
+[81] Log opened at 2019-11-03 15:44:42
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:44:42
+[81]
+[80] Log opened at 2019-11-03 15:46:12
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:46:12
+[80]
+[80] Log opened at 2019-11-03 15:46:12
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:46:12
+[80]
+[80] Log opened at 2019-11-03 15:46:12
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:46:13
+[80]
+[80] Log opened at 2019-11-03 15:46:13
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:46:13
+[80]
+[81] Log opened at 2019-11-03 15:46:35
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:46:35
+[81]
+[81] Log opened at 2019-11-03 15:46:36
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:46:36
+[81]
+[81] Log opened at 2019-11-03 15:46:36
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:46:36
+[81]
+[80] Log opened at 2019-11-03 15:53:26
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:53:26
+[80]
+[80] Log opened at 2019-11-03 15:53:26
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:53:26
+[80]
+[80] Log opened at 2019-11-03 15:53:26
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:53:26
+[80]
+[80] Log opened at 2019-11-03 15:53:26
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:53:26
+[80]
+[81] Log opened at 2019-11-03 15:54:32
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:54:32
+[81]
+[81] Log opened at 2019-11-03 15:54:33
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:54:33
+[81]
+[81] Log opened at 2019-11-03 15:54:33
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:54:33
+[81]
+[81] Log opened at 2019-11-03 15:54:33
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 15:54:33
+[81]
+[80] Log opened at 2019-11-03 15:54:49
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:54:49
+[80]
+[80] Log opened at 2019-11-03 15:54:49
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:54:49
+[80]
+[80] Log opened at 2019-11-03 15:54:49
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 15:54:49
+[80]
+[81] Log opened at 2019-11-03 16:09:16
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:09:16
+[81]
+[81] Log opened at 2019-11-03 16:09:18
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:09:18
+[81]
+[81] Log opened at 2019-11-03 16:09:18
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:09:18
+[81]
+[80] Log opened at 2019-11-03 16:09:51
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 16:09:51
+[80]
+[80] Log opened at 2019-11-03 16:09:51
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 16:09:51
+[80]
+[80] Log opened at 2019-11-03 16:09:51
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 16:09:51
+[80]
+[80] Log opened at 2019-11-03 16:09:51
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 16:09:51
+[80]
+[81] Log opened at 2019-11-03 16:13:01
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:13:01
+[81]
+[81] Log opened at 2019-11-03 16:13:01
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:13:01
+[81]
+[81] Log opened at 2019-11-03 16:13:01
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:13:01
+[81]
+[81] Log opened at 2019-11-03 16:13:01
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:13:01
+[81]
+[80] Log opened at 2019-11-03 16:13:19
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 16:13:19
+[80]
+[80] Log opened at 2019-11-03 16:13:21
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 16:13:21
+[80]
+[80] Log opened at 2019-11-03 16:13:21
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 16:13:21
+[80]
+[81] Log opened at 2019-11-03 16:13:53
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:13:53
+[81]
+[81] Log opened at 2019-11-03 16:13:53
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:13:54
+[81]
+[81] Log opened at 2019-11-03 16:13:54
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:13:54
+[81]
+[80] Log opened at 2019-11-03 16:14:18
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 16:14:18
+[80]
+[80] Log opened at 2019-11-03 16:14:18
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 16:14:18
+[80]
+[80] Log opened at 2019-11-03 16:14:18
+[80] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[80] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[80] E: Could not connect to client. :-(
+[80] Log closed at 2019-11-03 16:14:18
+[80]
+[81] Log opened at 2019-11-03 16:14:21
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:14:21
+[81]
+[81] Log opened at 2019-11-03 16:14:21
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:14:21
+[81]
+[81] Log opened at 2019-11-03 16:14:21
+[81] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[81] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[81] E: Could not connect to client. :-(
+[81] Log closed at 2019-11-03 16:14:21
+[81]
+[7] Log opened at 2019-11-12 21:48:09
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-12 21:48:09
+[7]
+[13] Log opened at 2019-11-12 21:48:09
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-12 21:48:09
+[13]
+[27] Log opened at 2019-11-12 21:48:54
+[27] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[27] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[27] E: Could not connect to client. :-(
+[27] Log closed at 2019-11-12 21:48:54
+[27]
+[34] Log opened at 2019-11-12 21:48:54
+[34] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[34] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[34] E: Could not connect to client. :-(
+[34] Log closed at 2019-11-12 21:48:54
+[34]
+[217] Log opened at 2019-11-12 21:49:34
+[217] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[217] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[217] E: Could not connect to client. :-(
+[217] Log closed at 2019-11-12 21:49:34
+[217]
+[224] Log opened at 2019-11-12 21:49:34
+[224] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[224] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[224] E: Could not connect to client. :-(
+[224] Log closed at 2019-11-12 21:49:34
+[224]
+[228] Log opened at 2019-11-12 21:49:34
+[228] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[228] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[228] E: Could not connect to client. :-(
+[228] Log closed at 2019-11-12 21:49:34
+[228]
+[232] Log opened at 2019-11-12 21:49:34
+[232] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[232] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[232] E: Could not connect to client. :-(
+[232] Log closed at 2019-11-12 21:49:34
+[232]
+[6] Log opened at 2019-11-13 22:45:23
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-13 22:45:23
+[6]
+[12] Log opened at 2019-11-13 22:45:23
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-13 22:45:23
+[12]
+[22] Log opened at 2019-11-13 22:45:55
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-13 22:45:55
+[22]
+[29] Log opened at 2019-11-13 22:45:55
+[29] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[29] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[29] E: Could not connect to client. :-(
+[29] Log closed at 2019-11-13 22:45:55
+[29]
+[184] Log opened at 2019-11-13 22:46:13
+[184] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[184] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[184] E: Could not connect to client. :-(
+[184] Log closed at 2019-11-13 22:46:13
+[184]
+[191] Log opened at 2019-11-13 22:46:13
+[191] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[191] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[191] E: Could not connect to client. :-(
+[191] Log closed at 2019-11-13 22:46:14
+[191]
+[195] Log opened at 2019-11-13 22:46:14
+[195] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[195] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[195] E: Could not connect to client. :-(
+[195] Log closed at 2019-11-13 22:46:14
+[195]
+[199] Log opened at 2019-11-13 22:46:14
+[199] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[199] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[199] E: Could not connect to client. :-(
+[199] Log closed at 2019-11-13 22:46:14
+[199]
+[216] Log opened at 2019-11-13 22:47:35
+[216] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[216] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[216] E: Could not connect to client. :-(
+[216] Log closed at 2019-11-13 22:47:35
+[216]
+[223] Log opened at 2019-11-13 22:47:35
+[223] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[223] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[223] E: Could not connect to client. :-(
+[223] Log closed at 2019-11-13 22:47:35
+[223]
+[230] Log opened at 2019-11-13 22:48:42
+[230] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[230] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[230] E: Could not connect to client. :-(
+[230] Log closed at 2019-11-13 22:48:42
+[230]
+[234] Log opened at 2019-11-13 22:50:11
+[234] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[234] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[234] E: Could not connect to client. :-(
+[234] Log closed at 2019-11-13 22:50:11
+[234]
+[238] Log opened at 2019-11-13 22:52:31
+[238] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[238] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[238] E: Could not connect to client. :-(
+[238] Log closed at 2019-11-13 22:52:31
+[238]
+[242] Log opened at 2019-11-13 22:52:58
+[242] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[242] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[242] E: Could not connect to client. :-(
+[242] Log closed at 2019-11-13 22:52:58
+[242]
+[248] Log opened at 2019-11-13 22:53:01
+[248] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[248] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[248] E: Could not connect to client. :-(
+[248] Log closed at 2019-11-13 22:53:01
+[248]
+[252] Log opened at 2019-11-13 22:53:48
+[252] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[252] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[252] E: Could not connect to client. :-(
+[252] Log closed at 2019-11-13 22:53:48
+[252]
+[256] Log opened at 2019-11-13 22:55:34
+[256] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[256] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[256] E: Could not connect to client. :-(
+[256] Log closed at 2019-11-13 22:55:34
+[256]
+[260] Log opened at 2019-11-13 22:58:58
+[260] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[260] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[260] E: Could not connect to client. :-(
+[260] Log closed at 2019-11-13 22:58:58
+[260]
+[264] Log opened at 2019-11-13 22:59:01
+[264] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[264] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[264] E: Could not connect to client. :-(
+[264] Log closed at 2019-11-13 22:59:01
+[264]
+[268] Log opened at 2019-11-13 22:59:04
+[268] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[268] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[268] E: Could not connect to client. :-(
+[268] Log closed at 2019-11-13 22:59:04
+[268]
+[272] Log opened at 2019-11-13 22:59:37
+[272] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[272] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[272] E: Could not connect to client. :-(
+[272] Log closed at 2019-11-13 22:59:37
+[272]
+[276] Log opened at 2019-11-13 22:59:52
+[276] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[276] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[276] E: Could not connect to client. :-(
+[276] Log closed at 2019-11-13 22:59:52
+[276]
+[280] Log opened at 2019-11-13 23:00:36
+[280] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[280] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[280] E: Could not connect to client. :-(
+[280] Log closed at 2019-11-13 23:00:36
+[280]
+[284] Log opened at 2019-11-13 23:01:46
+[284] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[284] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[284] E: Could not connect to client. :-(
+[284] Log closed at 2019-11-13 23:01:46
+[284]
+[288] Log opened at 2019-11-13 23:02:23
+[288] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[288] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[288] E: Could not connect to client. :-(
+[288] Log closed at 2019-11-13 23:02:23
+[288]
+[292] Log opened at 2019-11-13 23:02:45
+[292] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[292] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[292] E: Could not connect to client. :-(
+[292] Log closed at 2019-11-13 23:02:45
+[292]
+[296] Log opened at 2019-11-13 23:06:49
+[296] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[296] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[296] E: Could not connect to client. :-(
+[296] Log closed at 2019-11-13 23:06:50
+[296]
+[300] Log opened at 2019-11-13 23:06:55
+[300] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[300] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[300] E: Could not connect to client. :-(
+[300] Log closed at 2019-11-13 23:06:55
+[300]
+[304] Log opened at 2019-11-13 23:07:18
+[304] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[304] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[304] E: Could not connect to client. :-(
+[304] Log closed at 2019-11-13 23:07:18
+[304]
+[317] Log opened at 2019-11-13 23:08:46
+[317] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[317] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[317] E: Could not connect to client. :-(
+[317] Log closed at 2019-11-13 23:08:46
+[317]
+[325] Log opened at 2019-11-13 23:08:48
+[325] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[325] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[325] E: Could not connect to client. :-(
+[325] Log closed at 2019-11-13 23:08:48
+[325]
+[6] Log opened at 2019-11-13 23:10:18
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-13 23:10:18
+[6]
+[12] Log opened at 2019-11-13 23:10:18
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-13 23:10:18
+[12]
+[29] Log opened at 2019-11-13 23:10:25
+[29] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[29] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[29] E: Could not connect to client. :-(
+[29] Log closed at 2019-11-13 23:10:25
+[29]
+[37] Log opened at 2019-11-13 23:10:26
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2019-11-13 23:10:26
+[37]
+[44] Log opened at 2019-11-13 23:10:26
+[44] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[44] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[44] E: Could not connect to client. :-(
+[44] Log closed at 2019-11-13 23:10:26
+[44]
+[59] Log opened at 2019-11-13 23:10:30
+[59] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[59] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[59] E: Could not connect to client. :-(
+[59] Log closed at 2019-11-13 23:10:30
+[59]
+[67] Log opened at 2019-11-13 23:10:31
+[67] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[67] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[67] E: Could not connect to client. :-(
+[67] Log closed at 2019-11-13 23:10:31
+[67]
+[74] Log opened at 2019-11-13 23:10:31
+[74] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[74] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[74] E: Could not connect to client. :-(
+[74] Log closed at 2019-11-13 23:10:31
+[74]
+[78] Log opened at 2019-11-13 23:10:31
+[78] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[78] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[78] E: Could not connect to client. :-(
+[78] Log closed at 2019-11-13 23:10:31
+[78]
+[82] Log opened at 2019-11-13 23:10:31
+[82] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[82] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[82] E: Could not connect to client. :-(
+[82] Log closed at 2019-11-13 23:10:31
+[82]
+[6] Log opened at 2019-11-29 19:50:58
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-29 19:51:18
+[6]
+[12] Log opened at 2019-11-29 19:51:19
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-29 19:51:39
+[12]
+[21] Log opened at 2019-11-29 19:51:59
+[21] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[21] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[21] E: Could not connect to client. :-(
+[21] Log closed at 2019-11-29 19:52:19
+[21]
+[35] Log opened at 2019-11-29 19:52:40
+[35] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[35] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[35] E: Could not connect to client. :-(
+[35] Log closed at 2019-11-29 19:53:00
+[35]
+[8] Log opened at 2019-11-29 19:54:27
+[8] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[8] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[8] E: Could not connect to client. :-(
+[8] Log closed at 2019-11-29 19:54:47
+[8]
+[20] Log opened at 2019-11-29 19:54:47
+[20] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[20] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[20] E: Could not connect to client. :-(
+[20] Log closed at 2019-11-29 19:55:07
+[20]
+[6] Log opened at 2019-11-29 20:19:45
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-29 20:20:05
+[6]
+[12] Log opened at 2019-11-29 20:20:05
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-29 20:20:25
+[12]
+[21] Log opened at 2019-11-29 20:20:45
+[21] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[21] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[21] E: Could not connect to client. :-(
+[21] Log closed at 2019-11-29 20:21:05
+[21]
+[30] Log opened at 2019-11-29 20:21:26
+[30] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[30] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[30] E: Could not connect to client. :-(
+[30] Log closed at 2019-11-29 20:21:46
+[30]
+[34] Log opened at 2019-11-29 20:22:26
+[34] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[34] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[34] E: Could not connect to client. :-(
+[34] Log closed at 2019-11-29 20:22:46
+[34]
+[38] Log opened at 2019-11-29 20:23:27
+[38] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[38] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[38] E: Could not connect to client. :-(
+[38] Log closed at 2019-11-29 20:23:47
+[38]
+[7] Log opened at 2019-11-29 20:37:32
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-29 20:37:52
+[7]
+[13] Log opened at 2019-11-29 20:37:52
+[13] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[13] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[13] E: Could not connect to client. :-(
+[13] Log closed at 2019-11-29 20:38:12
+[13]
+[22] Log opened at 2019-11-29 20:38:33
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2019-11-29 20:38:53
+[22]
+[31] Log opened at 2019-11-29 20:39:13
+[31] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[31] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[31] E: Could not connect to client. :-(
+[31] Log closed at 2019-11-29 20:39:33
+[31]
+[35] Log opened at 2019-11-29 20:39:33
+[35] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[35] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[35] E: Could not connect to client. :-(
+[35] Log closed at 2019-11-29 20:39:53
+[35]
+[39] Log opened at 2019-11-29 20:39:54
+[39] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[39] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[39] E: Could not connect to client. :-(
+[39] Log closed at 2019-11-29 20:40:14
+[39]
+[7] Log opened at 2019-11-30 19:08:09
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-30 19:08:17
+
+[12] Log opened at 2019-11-30 19:08:17
+[12] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[12] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[12] E: Could not connect to client. :-(
+[12] Log closed at 2019-11-30 19:08:25
+
+[9] Log opened at 2019-11-30 19:21:39
+[9] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[9] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[9] E: Could not connect to client. :-(
+[9] Log closed at 2019-11-30 19:21:48
+
+[22] Log opened at 2019-11-30 19:21:48
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] Log opened at 2019-11-30 19:25:17
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] Log opened at 2019-11-30 19:26:45
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 19:26:53
+
+[19] Log opened at 2019-11-30 19:26:53
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2019-11-30 19:27:01
+
+[7] Log opened at 2019-11-30 19:30:49
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-30 19:31:09
+
+[20] Log opened at 2019-11-30 19:31:09
+[20] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[20] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[20] E: Could not connect to client. :-(
+[20] Log closed at 2019-11-30 19:31:17
+
+[6] Log opened at 2019-11-30 19:44:36
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 19:44:56
+
+[19] Log opened at 2019-11-30 19:44:56
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2019-11-30 19:45:04
+
+[6] Log opened at 2019-11-30 19:46:50
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 19:47:10
+
+[19] Log opened at 2019-11-30 19:47:10
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2019-11-30 19:47:18
+
+[6] Log opened at 2019-11-30 19:48:14
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 19:48:22
+
+[10] Log opened at 2019-11-30 19:48:22
+[10] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[10] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[10] E: Could not connect to client. :-(
+[10] Log closed at 2019-11-30 19:48:30
+
+[14] Log opened at 2019-11-30 19:48:30
+[14] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[14] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[14] E: Could not connect to client. :-(
+[14] Log closed at 2019-11-30 19:48:38
+
+[7] Log opened at 2019-11-30 19:49:24
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-30 19:49:32
+
+[11] Log opened at 2019-11-30 19:49:32
+[11] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] Log opened at 2019-11-30 19:54:49
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 19:54:57
+
+[7] Log opened at 2019-11-30 19:54:57
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2019-11-30 19:55:06
+
+[8] Log opened at 2019-11-30 19:55:06
+[8] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[8] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[8] E: Could not connect to client. :-(
+[8] Log closed at 2019-11-30 19:55:14
+
+[6] Log opened at 2019-11-30 19:57:08
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 19:57:28
+
+[10] Log opened at 2019-11-30 19:57:28
+[10] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[10] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[10] E: Could not connect to client. :-(
+[10] Log closed at 2019-11-30 19:57:36
+
+[14] Log opened at 2019-11-30 19:57:36
+[14] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[14] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[14] E: Could not connect to client. :-(
+[14] Log closed at 2019-11-30 19:57:44
+
+[6] Log opened at 2019-11-30 22:16:14
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 22:16:22
+
+[19] Log opened at 2019-11-30 22:16:22
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2019-11-30 22:16:30
+
+[6] Log opened at 2019-11-30 22:31:38
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 22:31:46
+
+[19] Log opened at 2019-11-30 22:31:46
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2019-11-30 22:31:54
+
+[6] Log opened at 2019-11-30 22:44:38
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 22:44:46
+
+[19] Log opened at 2019-11-30 22:44:46
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2019-11-30 22:44:55
+
+[6] Log opened at 2019-11-30 22:46:15
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 22:46:24
+
+[19] Log opened at 2019-11-30 22:46:24
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2019-11-30 22:46:32
+
+[6] Log opened at 2019-11-30 22:47:24
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 22:47:44
+
+[10] Log opened at 2019-11-30 22:47:44
+[10] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[10] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[10] E: Could not connect to client. :-(
+[10] Log closed at 2019-11-30 22:47:52
+
+[14] Log opened at 2019-11-30 22:47:52
+[14] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[14] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[14] E: Could not connect to client. :-(
+[14] Log closed at 2019-11-30 22:48:00
+
+[26] Log opened at 2019-11-30 22:48:44
+[26] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[26] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[26] E: Could not connect to client. :-(
+[26] Log closed at 2019-11-30 22:48:52
+
+[40] Log opened at 2019-11-30 22:53:56
+[40] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[40] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[40] E: Could not connect to client. :-(
+[40] Log closed at 2019-11-30 22:54:04
+
+[54] Log opened at 2019-11-30 22:56:01
+[54] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[54] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[54] E: Could not connect to client. :-(
+[54] Log closed at 2019-11-30 22:56:09
+
+[68] Log opened at 2019-11-30 23:01:56
+[68] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[68] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[68] E: Could not connect to client. :-(
+[68] Log closed at 2019-11-30 23:02:04
+
+[6] Log opened at 2019-11-30 23:03:12
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 23:03:20
+
+[19] Log opened at 2019-11-30 23:03:20
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2019-11-30 23:03:29
+
+[45] Log opened at 2019-11-30 23:13:51
+[45] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[45] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[45] E: Could not connect to client. :-(
+[45] Log closed at 2019-11-30 23:13:59
+
+[61] Log opened at 2019-11-30 23:23:22
+[61] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[61] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[61] E: Could not connect to client. :-(
+[61] Log closed at 2019-11-30 23:23:30
+
+[62] Log opened at 2019-11-30 23:23:30
+[62] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[62] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[62] E: Could not connect to client. :-(
+[62] Log closed at 2019-11-30 23:23:38
+
+[63] Log opened at 2019-11-30 23:23:38
+[63] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[63] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[63] E: Could not connect to client. :-(
+[63] Log closed at 2019-11-30 23:23:46
+
+[72] Log opened at 2019-11-30 23:26:34
+[72] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[72] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[72] E: Could not connect to client. :-(
+[72] Log closed at 2019-11-30 23:26:42
+
+[6] Log opened at 2019-11-30 23:30:09
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2019-11-30 23:30:29
+
+[19] Log opened at 2019-11-30 23:30:29
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2019-11-30 23:30:37
+
+[8] Log opened at 2019-11-30 23:31:59
+[8] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[8] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[8] E: Could not connect to client. :-(
+[8] Log closed at 2019-11-30 23:32:07
+
+[21] Log opened at 2019-11-30 23:32:07
+[21] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[21] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[21] E: Could not connect to client. :-(
+[21] Log closed at 2019-11-30 23:32:15
+
+[47] Log opened at 2019-11-30 23:42:45
+[47] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[47] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[47] E: Could not connect to client. :-(
+[47] Log closed at 2019-11-30 23:42:53
+
+[63] Log opened at 2019-11-30 23:52:10
+[63] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[63] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[63] E: Could not connect to client. :-(
+[63] Log closed at 2019-11-30 23:52:18
+
+[64] Log opened at 2019-11-30 23:52:18
+[64] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[64] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[64] E: Could not connect to client. :-(
+[64] Log closed at 2019-11-30 23:52:26
+
+[65] Log opened at 2019-11-30 23:52:27
+[65] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[65] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[65] E: Could not connect to client. :-(
+[65] Log closed at 2019-11-30 23:52:35
+
+[8] Log opened at 2019-12-01 00:06:25
+[8] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[8] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[8] E: Could not connect to client. :-(
+[8] Log closed at 2019-12-01 00:06:45
+
+[21] Log opened at 2019-12-01 00:06:45
+[21] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[21] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[21] E: Could not connect to client. :-(
+[21] Log closed at 2019-12-01 00:06:53
+
+[47] Log opened at 2019-12-01 00:17:22
+[47] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[47] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[47] E: Could not connect to client. :-(
+[47] Log closed at 2019-12-01 00:17:30
+
+[63] Log opened at 2019-12-01 00:26:43
+[63] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[63] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[63] E: Could not connect to client. :-(
+[63] Log closed at 2019-12-01 00:26:51
+
+[64] Log opened at 2019-12-01 00:26:51
+[64] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[64] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[64] E: Could not connect to client. :-(
+[64] Log closed at 2019-12-01 00:26:59
+
+[65] Log opened at 2019-12-01 00:26:59
+[65] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[65] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[65] E: Could not connect to client. :-(
+[65] Log closed at 2019-12-01 00:27:08
+
+[8] Log opened at 2019-12-01 00:35:36
+[8] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[8] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[8] E: Could not connect to client. :-(
+[8] Log closed at 2019-12-01 00:35:56
+
+[21] Log opened at 2019-12-01 00:35:56
+[21] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[21] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[21] E: Could not connect to client. :-(
+[21] Log closed at 2019-12-01 00:36:04
+
+[47] Log opened at 2019-12-01 00:46:38
+[47] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[47] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[47] E: Could not connect to client. :-(
+[47] Log closed at 2019-12-01 00:46:46
+
+[63] Log opened at 2019-12-01 00:55:59
+[63] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[63] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[63] E: Could not connect to client. :-(
+[63] Log closed at 2019-12-01 00:56:07
+
+[64] Log opened at 2019-12-01 00:56:07
+[64] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[64] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[64] E: Could not connect to client. :-(
+[64] Log closed at 2019-12-01 00:56:15
+
+[65] Log opened at 2019-12-01 00:56:15
+[65] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[65] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[65] E: Could not connect to client. :-(
+[65] Log closed at 2019-12-01 00:56:23
+
+[8] Log opened at 2020-01-11 14:43:50
+[8] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[8] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[8] E: Could not connect to client. :-(
+[8] Log closed at 2020-01-11 14:44:10
+
+[21] Log opened at 2020-01-11 14:44:10
+[21] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[21] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[21] E: Could not connect to client. :-(
+[21] Log closed at 2020-01-11 14:44:30
+
+[37] Log opened at 2020-01-11 14:45:31
+[37] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[37] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Resource temporarily unavailable.
+[37] E: Could not connect to client. :-(
+[37] Log closed at 2020-01-11 14:45:51
+
+[8] Log opened at 2020-01-11 14:47:40
+[8] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[8] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[8] E: Could not connect to client. :-(
+[8] Log closed at 2020-01-11 14:47:44
+
+[21] Log opened at 2020-01-11 14:47:44
+[21] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[21] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[21] E: Could not connect to client. :-(
+[21] Log closed at 2020-01-11 14:47:48
+
+[9] Log opened at 2020-01-11 14:50:27
+[9] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[9] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[9] E: Could not connect to client. :-(
+[9] Log closed at 2020-01-11 14:50:31
+
+[22] Log opened at 2020-01-11 14:50:31
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2020-01-11 14:50:35
+
+[8] Log opened at 2020-01-11 14:51:31
+[8] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[8] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[8] E: Could not connect to client. :-(
+[8] Log closed at 2020-01-11 14:51:35
+
+[21] Log opened at 2020-01-11 14:51:35
+[21] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[21] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[21] E: Could not connect to client. :-(
+[21] Log closed at 2020-01-11 14:51:39
+
+[9] Log opened at 2020-01-11 15:01:53
+[9] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[9] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[9] E: Could not connect to client. :-(
+[9] Log closed at 2020-01-11 15:01:57
+
+[22] Log opened at 2020-01-11 15:01:58
+[22] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[22] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[22] E: Could not connect to client. :-(
+[22] Log closed at 2020-01-11 15:02:02
+
+[6] Log opened at 2020-01-11 15:06:38
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2020-01-11 15:06:42
+
+[19] Log opened at 2020-01-11 15:06:42
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2020-01-11 15:06:46
+
+[6] Log opened at 2020-01-11 15:09:29
+[6] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[6] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[6] E: Could not connect to client. :-(
+[6] Log closed at 2020-01-11 15:09:33
+
+[19] Log opened at 2020-01-11 15:09:33
+[19] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[19] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[19] E: Could not connect to client. :-(
+[19] Log closed at 2020-01-11 15:09:37
+
+[7] Log opened at 2020-01-27 20:17:37
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2020-01-27 20:17:45
+
+[20] Log opened at 2020-01-27 20:17:45
+[20] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[20] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[20] E: Could not connect to client. :-(
+[20] Log closed at 2020-01-27 20:17:53
+
+[7] Log opened at 2020-01-27 20:37:11
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2020-01-27 20:37:19
+
+[20] Log opened at 2020-01-27 20:37:19
+[20] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[20] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[20] E: Could not connect to client. :-(
+[20] Log closed at 2020-01-27 20:37:27
+
+[8] Log opened at 2020-01-27 21:08:24
+[8] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[8] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[8] E: Could not connect to client. :-(
+[8] Log closed at 2020-01-27 21:08:24
+
+[21] Log opened at 2020-01-27 21:08:24
+[21] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[21] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[21] E: Could not connect to client. :-(
+[21] Log closed at 2020-01-27 21:08:24
+
+[7] Log opened at 2020-01-27 21:09:38
+[7] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[7] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[7] E: Could not connect to client. :-(
+[7] Log closed at 2020-01-27 21:09:42
+
+[20] Log opened at 2020-01-27 21:09:42
+[20] I: Connecting to configured address/port: docker.for.mac.host.internal:9002.
+[20] W: Creating socket for 'docker.for.mac.host.internal:9002', getaddrinfo: Invalid argument.
+[20] E: Could not connect to client. :-(
+[20] Log closed at 2020-01-27 21:09:42
+
