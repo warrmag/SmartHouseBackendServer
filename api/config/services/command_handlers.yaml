@@ -4,12 +4,16 @@ services:
     autoconfigure: true
     public: true
 
-  # COMMAND HANDLERS
-  Application\Command\User\CreateUserCommandHandler:
-    tags:
-      - { name: command_handler, handles: Application\Command\User\CreateUserCommand }
-
-  # QUERY HANDLERS
-  Application\Query\Device\ListDeviceQueryHandle:
-    tags:
-      - { name: command_handler, handles: Application\Command\Query\Device\ListDeviceQuery }
+#  # COMMAND HANDLERS
+#  Application\Command\User\CreateUserCommandHandler:
+#    tags:
+#      - { name: command_handler, handles: Application\Command\User\CreateUserCommand }
+#
+#  # QUERY HANDLERS
+#  Application\Query\Device\ListDeviceQueryHandle:
+#    tags:
+#      - { name: command_handler, handles: Application\Command\Query\Device\ListDeviceQuery }
+#
+#  Application\Query\Light\CalculateLightChangesQueryHandler:
+#    tags:
+#      - { name: command_handler, handles: Application\Command\Query\Light\CalculateLightChangesQuery }

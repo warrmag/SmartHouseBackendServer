@@ -4,6 +4,6 @@ services:
     autoconfigure: true
     public: true
 
-  Application\Service\User\UserService: ~
-
-  Domain\Service\User\UserServiceInterface: '@Application\Service\User\UserService'
+#  Application\Service\User\UserService: ~
+#
+#  Domain\Service\User\UserServiceInterface: '@Application\Service\User\UserService'

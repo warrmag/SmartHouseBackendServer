@@ -4,8 +4,8 @@ services:
     autoconfigure: true
     public: false
 
-  user_repository:
-    class: Infrastructure\Repository\ORM\UserRepository
-    arguments: ['@doctrine', '@logger']
-
-  Application\Repository\UserRepositoryInterface: '@user_repository'
+#  user_repository:
+#    class: Infrastructure\Repository\ORM\UserRepository
+#    arguments: ['@doctrine', '@logger']
+#
+#  Application\Repository\UserRepositoryInterface: '@user_repository'

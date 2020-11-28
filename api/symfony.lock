@@ -2,6 +2,12 @@
     "alcaeus/mongo-php-adapter": {
         "version": "1.1.9"
     },
+    "brick/math": {
+        "version": "0.8.15"
+    },
+    "cmen/google-charts-bundle": {
+        "version": "3.2.1"
+    },
     "doctrine/annotations": {
         "version": "1.0",
         "recipe": {
@@ -96,6 +102,9 @@
     "doctrine/reflection": {
         "version": "v1.0.0"
     },
+    "doctrine/sql-formatter": {
+        "version": "1.1.0"
+    },
     "hoa/compiler": {
         "version": "3.17.08.08"
     },
@@ -134,9 +143,6 @@
     },
     "hoa/zformat": {
         "version": "1.17.01.10"
-    },
-    "jdorn/sql-formatter": {
-        "version": "v1.2.17"
     },
     "jms/metadata": {
         "version": "2.1.0"
@@ -209,6 +215,9 @@
     "psr/log": {
         "version": "1.1.0"
     },
+    "ramsey/collection": {
+        "version": "1.0.1"
+    },
     "ramsey/uuid": {
         "version": "3.8.0"
     },
@@ -235,6 +244,9 @@
         "files": [
             "config/packages/sensio_framework_extra.yaml"
         ]
+    },
+    "symfony/amqp-messenger": {
+        "version": "v5.1.8"
     },
     "symfony/cache": {
         "version": "v4.3.4"
@@ -264,8 +276,14 @@
     "symfony/dependency-injection": {
         "version": "v4.3.4"
     },
+    "symfony/deprecation-contracts": {
+        "version": "v2.2.0"
+    },
     "symfony/doctrine-bridge": {
         "version": "v4.3.4"
+    },
+    "symfony/doctrine-messenger": {
+        "version": "v5.1.8"
     },
     "symfony/dotenv": {
         "version": "v4.3.4"
@@ -316,6 +334,9 @@
             "src/Kernel.php"
         ]
     },
+    "symfony/http-client-contracts": {
+        "version": "v2.3.1"
+    },
     "symfony/http-foundation": {
         "version": "v4.3.4"
     },
@@ -359,8 +380,14 @@
             "tests/.gitignore"
         ]
     },
+    "symfony/polyfill-intl-grapheme": {
+        "version": "v1.20.0"
+    },
     "symfony/polyfill-intl-idn": {
         "version": "v1.12.0"
+    },
+    "symfony/polyfill-intl-normalizer": {
+        "version": "v1.20.0"
     },
     "symfony/polyfill-mbstring": {
         "version": "v1.12.0"
@@ -371,11 +398,23 @@
     "symfony/polyfill-php73": {
         "version": "v1.12.0"
     },
+    "symfony/polyfill-php80": {
+        "version": "v1.17.0"
+    },
     "symfony/process": {
         "version": "v5.0.5"
     },
+    "symfony/profiler-pack": {
+        "version": "v1.0.5"
+    },
     "symfony/property-access": {
         "version": "v4.3.4"
+    },
+    "symfony/property-info": {
+        "version": "v5.1.8"
+    },
+    "symfony/redis-messenger": {
+        "version": "v5.1.8"
     },
     "symfony/routing": {
         "version": "4.2",
@@ -422,8 +461,28 @@
     "symfony/stopwatch": {
         "version": "v4.3.4"
     },
+    "symfony/string": {
+        "version": "v5.1.8"
+    },
     "symfony/translation-contracts": {
         "version": "v1.1.7"
+    },
+    "symfony/twig-bridge": {
+        "version": "v5.0.9"
+    },
+    "symfony/twig-bundle": {
+        "version": "5.0",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "master",
+            "version": "5.0",
+            "ref": "fab9149bbaa4d5eca054ed93f9e1b66cc500895d"
+        },
+        "files": [
+            "config/packages/test/twig.yaml",
+            "config/packages/twig.yaml",
+            "templates/base.html.twig"
+        ]
     },
     "symfony/validator": {
         "version": "4.3",
@@ -444,8 +503,25 @@
     "symfony/var-exporter": {
         "version": "v4.3.4"
     },
+    "symfony/web-profiler-bundle": {
+        "version": "3.3",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "master",
+            "version": "3.3",
+            "ref": "6bdfa1a95f6b2e677ab985cd1af2eae35d62e0f6"
+        },
+        "files": [
+            "config/packages/dev/web_profiler.yaml",
+            "config/packages/test/web_profiler.yaml",
+            "config/routes/dev/web_profiler.yaml"
+        ]
+    },
     "symfony/yaml": {
         "version": "v4.3.4"
+    },
+    "twig/twig": {
+        "version": "v3.0.3"
     },
     "webimpress/safe-writer": {
         "version": "2.0.0"

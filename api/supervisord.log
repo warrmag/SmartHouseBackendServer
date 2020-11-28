@@ -1,0 +1,10 @@
+2020-11-28 15:30:29,014 INFO Set uid to user 1000 succeeded
+2020-11-28 15:30:29,016 INFO supervisord started with pid 1
+2020-11-28 15:30:30,019 INFO spawned: 'php-fpm' with pid 55
+2020-11-28 15:30:30,087 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 140106280317080 for <Subprocess at 140106280317008 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 15:30:30,155 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 15:30:30] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 15:30:30] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 15:30:30,156 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 140106280317368 for <Subprocess at 140106280317008 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 15:30:31,157 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

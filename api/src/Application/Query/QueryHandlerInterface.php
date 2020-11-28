@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace Application\Query;
 
-use App\Application\Query\QueryInterface;
+use Application\Query\QueryInterface;
 
 interface QueryHandlerInterface
 {

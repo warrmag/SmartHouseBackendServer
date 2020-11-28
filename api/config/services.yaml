@@ -16,14 +16,5 @@ services:
 #        tags: ['controller.service_arguments']
         public: true
 
-    Application\Service\:
-        resource: '../src/Application/Service'
-
-    Domain\Service\:
-        resource: '../src/Domain/Service'
-
-    Application\Repository\:
-        resource: '../src/Application/Repository'
-
     Infrastructure\:
         resource: '../src/Infrastructure'
