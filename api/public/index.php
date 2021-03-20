@@ -1,6 +1,6 @@
 <?php
 
-use App\Kernel;
+use SmartHouse\Infrastructure\Kernel;
 use Symfony\Component\ErrorHandler\Debug;
 use Symfony\Component\HttpFoundation\Request;
 

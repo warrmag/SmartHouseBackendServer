@@ -1,5 +1,4 @@
-###> @todo move to released image once published
-FROM php:8.0.0RC5-fpm
+FROM php:8.0.3-fpm
 
 RUN echo "deb http://us.archive.ubuntu.com/ubuntu/ precise main universe" >> /etc/apt/source.list
 RUN apt-get update && \
@@ -36,16 +35,16 @@ RUN pecl install xdebug && \
 COPY docker/php/php.dev.ini /usr/local/etc/php/php.ini
 COPY docker/php/supervisord.conf /etc/supervisord.conf
 
-COPY ./api /app
+COPY ./api /api
 COPY ./docker/php/entrypoint.sh /entrypoint.sh
 
 ENV PHP_INI_RECOMMENDED="/usr/local/etc/php/php.${APP}.ini"
 RUN ln -sf "${PHP_INI_RECOMMENDED}" "${PHP_INI_DIR}/php.ini"
 
 RUN mkdir -p /api/var/log
-RUN sudo chown app:1000 -R /app
+RUN sudo chown app:1000 -R /api
 
-WORKDIR /app
+WORKDIR /api
 USER app
 
 ENTRYPOINT ["/entrypoint.sh"]

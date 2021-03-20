@@ -8,6 +8,9 @@
     "cmen/google-charts-bundle": {
         "version": "3.2.1"
     },
+    "composer/package-versions-deprecated": {
+        "version": "1.11.99.1"
+    },
     "doctrine/annotations": {
         "version": "1.0",
         "recipe": {
@@ -104,6 +107,9 @@
     },
     "doctrine/sql-formatter": {
         "version": "1.1.0"
+    },
+    "friendsofphp/proxy-manager-lts": {
+        "version": "v1.0.3"
     },
     "hoa/compiler": {
         "version": "3.17.08.08"
@@ -203,6 +209,9 @@
     "php": {
         "version": "7.4"
     },
+    "phpstan/phpstan": {
+        "version": "0.12.57"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
@@ -232,6 +241,9 @@
         "files": [
             "config/packages/ramsey_uuid_doctrine.yaml"
         ]
+    },
+    "roave/security-advisories": {
+        "version": "dev-master"
     },
     "sensio/framework-extra-bundle": {
         "version": "5.2",
@@ -334,6 +346,9 @@
             "src/Kernel.php"
         ]
     },
+    "symfony/http-client": {
+        "version": "v5.1.8"
+    },
     "symfony/http-client-contracts": {
         "version": "v2.3.1"
     },
@@ -412,6 +427,9 @@
     },
     "symfony/property-info": {
         "version": "v5.1.8"
+    },
+    "symfony/proxy-manager-bridge": {
+        "version": "v5.2.4"
     },
     "symfony/redis-messenger": {
         "version": "v5.1.8"

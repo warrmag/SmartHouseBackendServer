@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Query;
+namespace SmartHouse\Application\Query;
 
-use Application\Query\QueryInterface;
+use SmartHouse\Application\Query\QueryInterface;
 
 interface QueryHandlerInterface
 {

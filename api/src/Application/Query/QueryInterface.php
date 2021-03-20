@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Query;
+namespace SmartHouse\Application\Query;
 
 interface QueryInterface
 {

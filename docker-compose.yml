@@ -5,10 +5,10 @@ services:
     ports:
       - 8083:80
     volumes:
-      - ./api:/app
-      - ./api/vendor:/app/vendor
+      - ./api:/api
+      - ./api/vendor:/api/vendor
       - ./var/container/log:/var/log/nginx
-      - ./docker/nginx/app.conf:/etc/nginx/conf.d/app.conf
+      - ./docker/nginx/api.conf:/etc/nginx/conf.d/api.conf
     links:
       - php
     depends_on:
@@ -26,8 +26,8 @@ services:
     env_file:
       - .env
     volumes:
-      - ./api:/app:rw
-      - ./.env:/app/.env
+      - ./api:/api:rw
+      - ./.env:/api/.env
       - ./var/container/log:/tmp/xdebug.log
     tty: true
     networks:

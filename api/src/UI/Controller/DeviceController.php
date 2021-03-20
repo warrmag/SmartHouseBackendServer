@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace UI\Controller;
+namespace SmartHouse\UI\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\Messenger\HandleTrait;

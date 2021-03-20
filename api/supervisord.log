@@ -8,3 +8,249 @@
 
 2020-11-28 15:30:30,156 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 140106280317368 for <Subprocess at 140106280317008 with name php-fpm in state STARTING> (stderr)>
 2020-11-28 15:30:31,157 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 18:25:59,276 WARN received SIGQUIT indicating exit request
+2020-11-28 18:25:59,276 DEBG killing php-fpm (pid 55) with signal SIGTERM
+2020-11-28 18:25:59,276 INFO waiting for php-fpm to die
+2020-11-28 18:25:59,280 INFO stopped: php-fpm (exit status 0)
+2020-11-28 18:25:59,280 DEBG received SIGCLD indicating a child quit
+2020-11-28 18:58:49,711 INFO Set uid to user 1000 succeeded
+2020-11-28 18:58:49,714 INFO supervisord started with pid 1
+2020-11-28 18:58:50,717 INFO spawned: 'php-fpm' with pid 78
+2020-11-28 18:58:50,766 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 140129287090328 for <Subprocess at 140129287090256 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 18:58:50,789 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 18:58:50] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 18:58:50] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 18:58:50,789 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 140129287090616 for <Subprocess at 140129287090256 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 18:58:51,790 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:01:36,306 WARN received SIGQUIT indicating exit request
+2020-11-28 19:01:36,306 DEBG killing php-fpm (pid 78) with signal SIGTERM
+2020-11-28 19:01:36,306 INFO waiting for php-fpm to die
+2020-11-28 19:01:36,314 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:01:36,314 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:02:24,781 INFO Set uid to user 1000 succeeded
+2020-11-28 19:02:24,783 INFO supervisord started with pid 1
+2020-11-28 19:02:25,786 INFO spawned: 'php-fpm' with pid 282
+2020-11-28 19:02:25,878 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139678152581560 for <Subprocess at 139678152581200 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:02:25,939 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:02:25] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:02:25] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:02:25,940 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139678152581488 for <Subprocess at 139678152581200 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:02:26,941 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:04:07,336 WARN received SIGQUIT indicating exit request
+2020-11-28 19:04:07,336 DEBG killing php-fpm (pid 282) with signal SIGTERM
+2020-11-28 19:04:07,337 INFO waiting for php-fpm to die
+2020-11-28 19:04:07,342 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:04:07,343 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:04:41,368 INFO Set uid to user 1000 succeeded
+2020-11-28 19:04:41,370 INFO supervisord started with pid 1
+2020-11-28 19:04:42,374 INFO spawned: 'php-fpm' with pid 55
+2020-11-28 19:04:42,448 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139949685645464 for <Subprocess at 139949685645392 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:04:42,511 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:04:42] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:04:42] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:04:42,512 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139949685645752 for <Subprocess at 139949685645392 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:04:43,514 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:05:35,197 INFO reaped unknown pid 79
+2020-11-28 19:05:35,197 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:10:39,937 WARN received SIGQUIT indicating exit request
+2020-11-28 19:10:39,937 DEBG killing php-fpm (pid 55) with signal SIGTERM
+2020-11-28 19:10:39,937 INFO waiting for php-fpm to die
+2020-11-28 19:10:39,949 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:10:39,950 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:10:59,506 INFO Set uid to user 1000 succeeded
+2020-11-28 19:10:59,508 INFO supervisord started with pid 1
+2020-11-28 19:11:00,512 INFO spawned: 'php-fpm' with pid 56
+2020-11-28 19:11:00,590 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139986837844120 for <Subprocess at 139986837844048 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:11:00,657 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:11:00] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:11:00] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:11:00,657 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139986837844408 for <Subprocess at 139986837844048 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:11:01,659 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:11:54,290 WARN received SIGQUIT indicating exit request
+2020-11-28 19:11:54,290 DEBG killing php-fpm (pid 56) with signal SIGTERM
+2020-11-28 19:11:54,290 INFO waiting for php-fpm to die
+2020-11-28 19:11:54,301 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:11:54,301 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:12:16,528 INFO Set uid to user 1000 succeeded
+2020-11-28 19:12:16,530 INFO supervisord started with pid 1
+2020-11-28 19:12:17,534 INFO spawned: 'php-fpm' with pid 49
+2020-11-28 19:12:17,554 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 140562700673176 for <Subprocess at 140562700673104 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:12:17,571 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:12:17] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:12:17] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:12:17,571 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 140562700673464 for <Subprocess at 140562700673104 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:12:18,572 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:13:47,816 WARN received SIGQUIT indicating exit request
+2020-11-28 19:13:47,816 DEBG killing php-fpm (pid 49) with signal SIGTERM
+2020-11-28 19:13:47,816 INFO waiting for php-fpm to die
+2020-11-28 19:13:47,828 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:13:47,828 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:15:03,472 INFO Set uid to user 1000 succeeded
+2020-11-28 19:15:03,474 INFO supervisord started with pid 1
+2020-11-28 19:15:04,477 INFO spawned: 'php-fpm' with pid 48
+2020-11-28 19:15:04,564 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139866335920280 for <Subprocess at 139866335920208 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:15:04,635 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:15:04] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:15:04] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:15:04,635 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139866335920568 for <Subprocess at 139866335920208 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:15:05,637 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:17:03,169 WARN received SIGQUIT indicating exit request
+2020-11-28 19:17:03,169 DEBG killing php-fpm (pid 48) with signal SIGTERM
+2020-11-28 19:17:03,170 INFO waiting for php-fpm to die
+2020-11-28 19:17:03,183 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:17:03,183 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:17:33,570 INFO Set uid to user 1000 succeeded
+2020-11-28 19:17:33,573 INFO supervisord started with pid 1
+2020-11-28 19:17:34,577 INFO spawned: 'php-fpm' with pid 48
+2020-11-28 19:17:34,661 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139900805824664 for <Subprocess at 139900805824592 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:17:34,731 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:17:34] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:17:34] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:17:34,732 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139900805824952 for <Subprocess at 139900805824592 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:17:35,734 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:20:02,642 WARN received SIGQUIT indicating exit request
+2020-11-28 19:20:02,643 DEBG killing php-fpm (pid 48) with signal SIGTERM
+2020-11-28 19:20:02,643 INFO waiting for php-fpm to die
+2020-11-28 19:20:02,655 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:20:02,655 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:23:35,662 INFO Set uid to user 1000 succeeded
+2020-11-28 19:23:35,664 INFO supervisord started with pid 1
+2020-11-28 19:23:36,668 INFO spawned: 'php-fpm' with pid 48
+2020-11-28 19:23:36,754 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 140181192642712 for <Subprocess at 140181192642640 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:23:36,821 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:23:36] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:23:36] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:23:36,822 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 140181192643000 for <Subprocess at 140181192642640 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:23:37,823 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:25:34,044 WARN received SIGQUIT indicating exit request
+2020-11-28 19:25:34,044 DEBG killing php-fpm (pid 48) with signal SIGTERM
+2020-11-28 19:25:34,045 INFO waiting for php-fpm to die
+2020-11-28 19:25:34,054 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:25:34,054 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:25:57,780 INFO Set uid to user 1000 succeeded
+2020-11-28 19:25:57,782 INFO supervisord started with pid 1
+2020-11-28 19:25:58,785 INFO spawned: 'php-fpm' with pid 49
+2020-11-28 19:25:58,861 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139715098751128 for <Subprocess at 139715098751056 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:25:58,920 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:25:58] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:25:58] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:25:58,921 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139715098751416 for <Subprocess at 139715098751056 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:25:59,922 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:26:48,720 WARN received SIGQUIT indicating exit request
+2020-11-28 19:26:48,720 DEBG killing php-fpm (pid 49) with signal SIGTERM
+2020-11-28 19:26:48,720 INFO waiting for php-fpm to die
+2020-11-28 19:26:48,727 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:26:48,727 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:27:56,699 INFO Set uid to user 1000 succeeded
+2020-11-28 19:27:56,702 INFO supervisord started with pid 1
+2020-11-28 19:27:57,705 INFO spawned: 'php-fpm' with pid 48
+2020-11-28 19:27:57,790 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139769917653144 for <Subprocess at 139769917653072 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:27:57,859 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:27:57] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:27:57] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:27:57,860 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139769917653432 for <Subprocess at 139769917653072 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:27:58,861 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:28:57,729 WARN received SIGQUIT indicating exit request
+2020-11-28 19:28:57,729 DEBG killing php-fpm (pid 48) with signal SIGTERM
+2020-11-28 19:28:57,729 INFO waiting for php-fpm to die
+2020-11-28 19:28:57,740 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:28:57,740 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:29:25,690 INFO Set uid to user 1000 succeeded
+2020-11-28 19:29:25,694 INFO supervisord started with pid 1
+2020-11-28 19:29:26,697 INFO spawned: 'php-fpm' with pid 48
+2020-11-28 19:29:26,727 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139873731027096 for <Subprocess at 139873731027024 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:29:26,746 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:29:26] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:29:26] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:29:26,747 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139873731027384 for <Subprocess at 139873731027024 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:29:27,748 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:31:25,857 WARN received SIGQUIT indicating exit request
+2020-11-28 19:31:25,857 DEBG killing php-fpm (pid 48) with signal SIGTERM
+2020-11-28 19:31:25,858 INFO waiting for php-fpm to die
+2020-11-28 19:31:25,869 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:31:25,869 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:31:55,094 INFO Set uid to user 1000 succeeded
+2020-11-28 19:31:55,097 INFO supervisord started with pid 1
+2020-11-28 19:31:56,100 INFO spawned: 'php-fpm' with pid 48
+2020-11-28 19:31:56,136 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139700814004376 for <Subprocess at 139700814004304 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:31:56,156 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:31:56] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:31:56] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:31:56,157 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139700814004664 for <Subprocess at 139700814004304 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:31:57,158 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:33:23,462 WARN received SIGQUIT indicating exit request
+2020-11-28 19:33:23,463 DEBG killing php-fpm (pid 48) with signal SIGTERM
+2020-11-28 19:33:23,463 INFO waiting for php-fpm to die
+2020-11-28 19:33:23,467 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:33:23,467 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:33:47,596 INFO Set uid to user 1000 succeeded
+2020-11-28 19:33:47,600 INFO supervisord started with pid 1
+2020-11-28 19:33:48,604 INFO spawned: 'php-fpm' with pid 48
+2020-11-28 19:33:48,681 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 139948467982488 for <Subprocess at 139948467982416 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:33:48,749 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:33:48] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:33:48] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:33:48,749 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 139948467982776 for <Subprocess at 139948467982416 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:33:49,751 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:34:19,103 WARN received SIGQUIT indicating exit request
+2020-11-28 19:34:19,104 DEBG killing php-fpm (pid 48) with signal SIGTERM
+2020-11-28 19:34:19,104 INFO waiting for php-fpm to die
+2020-11-28 19:34:19,115 INFO stopped: php-fpm (exit status 0)
+2020-11-28 19:34:19,115 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:34:45,303 INFO Set uid to user 1000 succeeded
+2020-11-28 19:34:45,306 INFO supervisord started with pid 1
+2020-11-28 19:34:46,309 INFO spawned: 'php-fpm' with pid 204
+2020-11-28 19:34:46,344 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 140488255672760 for <Subprocess at 140488255672400 with name php-fpm in state STARTING> (stdout)>
+2020-11-28 19:34:46,363 DEBG 'php-fpm' stderr output:
+[28-Nov-2020 19:34:46] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[28-Nov-2020 19:34:46] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2020-11-28 19:34:46,363 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 140488255672688 for <Subprocess at 140488255672400 with name php-fpm in state STARTING> (stderr)>
+2020-11-28 19:34:47,364 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-11-28 19:35:24,246 INFO reaped unknown pid 228
+2020-11-28 19:35:24,247 DEBG received SIGCLD indicating a child quit
+2020-11-28 19:37:29,021 INFO reaped unknown pid 246
+2020-11-28 19:37:29,021 DEBG received SIGCLD indicating a child quit
+2020-11-30 08:16:22,389 WARN received SIGQUIT indicating exit request
+2020-11-30 08:16:22,389 DEBG killing php-fpm (pid 204) with signal SIGTERM
+2020-11-30 08:16:22,393 INFO waiting for php-fpm to die
+2020-11-30 08:16:22,411 INFO stopped: php-fpm (exit status 0)
+2020-11-30 08:16:22,411 DEBG received SIGCLD indicating a child quit
+2021-03-20 19:06:55,976 INFO Set uid to user 1000 succeeded
+2021-03-20 19:06:55,978 INFO supervisord started with pid 1
+2021-03-20 19:06:56,980 INFO spawned: 'php-fpm' with pid 211
+2021-03-20 19:06:57,050 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 140166137143448 for <Subprocess at 140166137143376 with name php-fpm in state STARTING> (stdout)>
+2021-03-20 19:06:57,113 DEBG 'php-fpm' stderr output:
+[20-Mar-2021 19:06:57] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[20-Mar-2021 19:06:57] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2021-03-20 19:06:57,113 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 140166137143736 for <Subprocess at 140166137143376 with name php-fpm in state STARTING> (stderr)>
+2021-03-20 19:06:58,114 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-03-20 19:16:04,548 WARN received SIGQUIT indicating exit request
+2021-03-20 19:16:04,549 DEBG killing php-fpm (pid 211) with signal SIGTERM
+2021-03-20 19:16:04,549 INFO waiting for php-fpm to die
+2021-03-20 19:16:04,555 INFO stopped: php-fpm (exit status 0)
+2021-03-20 19:16:04,555 DEBG received SIGCLD indicating a child quit
+2021-03-20 19:17:47,035 INFO Set uid to user 1000 succeeded
+2021-03-20 19:17:47,036 INFO supervisord started with pid 1
+2021-03-20 19:17:48,040 INFO spawned: 'php-fpm' with pid 178
+2021-03-20 19:17:48,110 DEBG fd 6 closed, stopped monitoring <POutputDispatcher at 140137922752664 for <Subprocess at 140137922752592 with name php-fpm in state STARTING> (stdout)>
+2021-03-20 19:17:48,188 DEBG 'php-fpm' stderr output:
+[20-Mar-2021 19:17:48] NOTICE: [pool www] 'user' directive is ignored when FPM is not running as root
+[20-Mar-2021 19:17:48] NOTICE: [pool www] 'group' directive is ignored when FPM is not running as root
+
+2021-03-20 19:17:48,189 DEBG fd 8 closed, stopped monitoring <POutputDispatcher at 140137922752952 for <Subprocess at 140137922752592 with name php-fpm in state STARTING> (stderr)>
+2021-03-20 19:17:49,190 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

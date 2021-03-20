@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Application\Command;
+namespace SmartHouse\Application\Command;
 
 interface CommandInterface
 {
